@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for Bubble Pink	</title>
+	<atom:link href="/pink-bubble/comments/feed" rel="self" type="application/rss+xml" />
+	<link>/pink-bubble/</link>
+	<description>Bubble Pink Theme Demo</description>
+	<lastBuildDate>Tue, 17 Dec 2024 03:13:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		Comment on Page 0: Hello world! by A WordPress Commenter		</title>
+		<link>/pink-bubble/archives/1#comment-1</link>
+
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 02:29:14 +0000</pubDate>
+		<guid isPermaLink="false">/pink-bubble/?p=1#comment-1</guid>
+
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=&quot;https://gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on WP 6.1 Theme block category by themedemos		</title>
+		<link>/pink-bubble/archives/164#comment-2</link>
+
+		<dc:creator><![CDATA[themedemos]]></dc:creator>
+		<pubDate>Mon, 16 Jan 2023 07:17:56 +0000</pubDate>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/wp-6-1-theme-block-category/#comment-2</guid>
+
+					<description><![CDATA[This test post needs a comment.]]></description>
+			<content:encoded><![CDATA[<p>This test post needs a comment.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Edge Case: No Content by John Doe		</title>
+		<link>/pink-bubble/archives/1170#comment-34</link>
+
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2013 19:35:07 +0000</pubDate>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2007/09/04/this-post-has-no-body/#comment-34</guid>
+
+					<description><![CDATA[Having no content in the post should have no adverse effects on the layout or functionality.]]></description>
+			<content:encoded><![CDATA[<p>Having no content in the post should have no adverse effects on the layout or functionality.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Protected: Template: Password Protected (the password is &#8220;enter&#8221;) by Jane Doe		</title>
+		<link>/pink-bubble/archives/1168#comment-33</link>
+
+		<dc:creator><![CDATA[Jane Doe]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2013 18:56:08 +0000</pubDate>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2007/09/04/test-with-secret-password/#comment-33</guid>
+
+					<description>Protected Comments: Please enter your password to view comments.</description>
+			<content:encoded><![CDATA[<form action="/pink-bubble/wp-login.php?action=postpass" class="post-password-form" method="post">
+	<p>This content is password protected. To view it please enter your password below:</p>
+	<p><label for="pwbox-1168">Password: <input name="post_password" id="pwbox-1168" type="password" spellcheck="false" size="20" /></label> <input type="submit" name="Submit" value="Enter" /></p></form>
+	]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Template: Comments by Jane Doe		</title>
+		<link>/pink-bubble/archives/1148#comment-26</link>
+
+		<dc:creator><![CDATA[Jane Doe]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2013 18:30:33 +0000</pubDate>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2007/09/04/comment-test/#comment-26</guid>
+
+					<description><![CDATA[Thanks for all the comments, everyone!]]></description>
+			<content:encoded><![CDATA[<p>Thanks for all the comments, everyone!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Template: Comments by John Doe		</title>
+		<link>/pink-bubble/archives/1148#comment-25</link>
+
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2013 18:27:54 +0000</pubDate>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2007/09/04/comment-test/#comment-25</guid>
+
+					<description><![CDATA[We use these tests all the time! Killer stuff!]]></description>
+			<content:encoded><![CDATA[<p>We use these tests all the time! Killer stuff!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Template: Comments by John Μαρία Doe Ντουε		</title>
+		<link>/pink-bubble/archives/1148#comment-24</link>
+
+		<dc:creator><![CDATA[John Μαρία Doe Ντουε]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2013 18:23:24 +0000</pubDate>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2007/09/04/comment-test/#comment-24</guid>
+
+					<description><![CDATA[We are totally going to blog about these tests Σίγουρα θα σχολιάσουμε τα τεστς!]]></description>
+			<content:encoded><![CDATA[<p>We are totally going to blog about these tests Σίγουρα θα σχολιάσουμε τα τεστς!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Template: Comments by Jane Doe		</title>
+		<link>/pink-bubble/archives/1148#comment-23</link>
+
+		<dc:creator><![CDATA[Jane Doe]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2013 16:56:43 +0000</pubDate>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2007/09/04/comment-test/#comment-23</guid>
+
+					<description><![CDATA[Image comment.
+	&lt;img src=&quot;https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050102_192118_51.jpg?w=171&amp;h=128&quot; alt=&quot;Albany wind-farm against the sunset, Western Australia&quot; /&gt;
+	If the image imports...
+	]]></description>
+			<content:encoded><![CDATA[<p>Image comment.<br />
+	<img src="https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050102_192118_51.jpg?w=171&#038;h=128" alt="Albany wind-farm against the sunset, Western Australia" /><br />
+	If the image imports&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Template: Comments by themedemos		</title>
+		<link>/pink-bubble/archives/1148#comment-22</link>
+
+		<dc:creator><![CDATA[themedemos]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2013 15:14:47 +0000</pubDate>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2007/09/04/comment-test/#comment-22</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/pink-bubble/archives/1148#comment-21&quot;&gt;Joe Bloggs&lt;/a&gt;.
+
+Comment Depth 10
+
+Also an author comment.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/pink-bubble/archives/1148#comment-21">Joe Bloggs</a>.</p>
+<p>Comment Depth 10</p>
+<p>Also an author comment.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Template: Comments by Joe Bloggs		</title>
+		<link>/pink-bubble/archives/1148#comment-21</link>
+
+		<dc:creator><![CDATA[Joe Bloggs]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2013 15:14:13 +0000</pubDate>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2007/09/04/comment-test/#comment-21</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/pink-bubble/archives/1148#comment-20&quot;&gt;Jane Bloggs&lt;/a&gt;.
+
+Comment Depth 09 is way nested, but there are a lot of sites with very nested comments.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/pink-bubble/archives/1148#comment-20">Jane Bloggs</a>.</p>
+<p>Comment Depth 09 is way nested, but there are a lot of sites with very nested comments.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
