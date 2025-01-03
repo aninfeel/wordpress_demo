@@ -1,7 +1,9 @@
-(function ($) {
-    const $container = $('<div id="bubble-container" />').appendTo('body');
+document.addEventListener("DOMContentLoaded", function () {
+    const $container = document.createElement('div');
+    $container.id = 'bubble-container';
+    document.body.appendChild($container);
 
-    const keepNumber = 10;
+    const keepNumber = 20;
 
     let count = 0;
     let startTime = 0;
@@ -25,12 +27,18 @@
             return;
         }
 
-        const $bubble = $('<div class="bubble" ><span></span><span></span><span></span><span></span><span></span></div>');
-        $container.append($bubble);
+        const $bubble = document.createElement('div');
+        $bubble.className = 'bubble';
+        for (let i = 0; i < 5; i++) {
+            const span = document.createElement('span');
+            $bubble.appendChild(span);
+        }
+
+        $container.appendChild($bubble);
 
         const x = Math.ceil(Math.random() * 9 + 1);
 
-        $bubble.addClass(`x${x}`);
+        $bubble.className +=` x${x}`;
         ++count;
 
         if (!startTime) {
@@ -38,12 +46,12 @@
         }
 
         // Remove bubble after animation ends
-        $bubble.on('animationend', () => {
+        $bubble.addEventListener("animationend", () => {
             if (!createInterval) {
                 createInterval = (Date.now() - startTime)/keepNumber;
             }
 
-            $bubble.remove();
+            $container.removeChild($bubble);
             --count;
         });
     }
@@ -55,4 +63,4 @@
     }
     
     requestAnimationFrame(createAgainAndAgain);
-})(jQuery);
+});

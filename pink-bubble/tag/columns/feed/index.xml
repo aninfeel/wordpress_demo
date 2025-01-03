@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Columns &#8211; Bubble Pink</title>
+	<atom:link href="/pink-bubble/tag/columns/feed" rel="self" type="application/rss+xml" />
+	<link>/pink-bubble/</link>
+	<description>Bubble Pink Theme Demo</description>
+	<lastBuildDate>Sat, 03 Nov 2018 03:55:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/pink-bubble/wp-content/uploads/2024/12/cropped-bb_logo-32x32.png</url>
+	<title>Columns &#8211; Bubble Pink</title>
+	<link>/pink-bubble/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Block: Gallery</title>
+		<link>/pink-bubble/block/1787.html</link>
+					<comments>/pink-bubble/block/1787.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 03 Nov 2018 03:55:09 +0000</pubDate>
+				<category><![CDATA[Block]]></category>
+		<category><![CDATA[Columns]]></category>
+		<category><![CDATA[content περιεχόμενο]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[image]]></category>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1752</guid>
+
+					<description><![CDATA[Gallery blocks have two settings: the number of columns, and whether or not images should be cropped. The default number of columns is three, and the maximum number of columns is eight. Below is a three column gallery at full width, with cropped images. Some more text for taking up space. A two column gallery, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Gallery blocks have two settings: the number of columns, and whether or not images should be cropped. The default number of columns is three, and the maximum number of columns is eight.</p>
+
+
+
+<p>Below is a three column gallery at full width, with cropped images.</p>
+
+
+
+<figure class="wp-block-gallery columns-3 is-cropped alignfull wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/canola2/"><img fetchpriority="high" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2008/06/canola2.jpg" alt="canola" data-id="611" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/canola2/" class="wp-image-611"/></a><figcaption class="blocks-gallery-item__caption">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa,
+et adipiscing orci velit quis magna.</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/cep00032/"><img decoding="async" width="1500" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/cep00032.jpg" alt="Sunburst Over River" data-id="756" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/cep00032/" class="wp-image-756"/></a><figcaption class="blocks-gallery-item__caption">Sunburst over the Clinch River,
+Southwest Virginia.</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dcp_2082/"><img decoding="async" width="1600" height="1066" src="/pink-bubble/wp-content/uploads/2008/06/dcp_2082.jpg" alt="Boardwalk" data-id="757" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dcp_2082/" class="wp-image-757"/></a><figcaption class="blocks-gallery-item__caption">Boardwalk at Westport, WA</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/100_5478/"><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/100_5478.jpg" alt="Bell on Wharf" data-id="754" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/100_5478/" class="wp-image-754"/></a><figcaption class="blocks-gallery-item__caption">Bell on wharf in San
+Francisco</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_0767/"><img loading="lazy" decoding="async" width="800" height="533" src="/pink-bubble/wp-content/uploads/2008/06/img_0767.jpg" alt="Huatulco Coastline" data-id="770" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_0767/" class="wp-image-770"/></a><figcaption class="blocks-gallery-item__caption">Coastline in Huatulco, Oaxaca, Mexico</figcaption></figure></li></ul><figcaption class="blocks-gallery-caption"><em>(gallery caption)</em> 3 column, full width, cropped, <strong>linked to attachment pages</strong></figcaption></figure>
+
+
+
+<figure class="wp-block-gallery columns-2 is-cropped alignleft extraclass wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2014/01/spectacles.gif"><img loading="lazy" decoding="async" width="165" height="210" src="/pink-bubble/wp-content/uploads/2014/01/spectacles.gif" alt="" data-id="1692" data-link="https://wpthemetestdata.wordpress.com/about/clearing-floats/spectacles-2/" class="wp-image-1692"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2012/12/unicorn-wallpaper.jpg"><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2012/12/unicorn-wallpaper.jpg" alt="Unicorn Wallpaper" data-id="1045" data-link="https://wpthemetestdata.wordpress.com/2010/08/08/post-format-image/unicorn-wallpaper/" class="wp-image-1045"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2010/08/manhattansummer.jpg"><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2010/08/manhattansummer.jpg" alt="" data-id="827" data-link="https://wpthemetestdata.wordpress.com/about/clearing-floats/olympus-digital-camera/" class="wp-image-827"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2012/06/dsc20040724_152504_532.jpg"><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2012/06/dsc20040724_152504_532.jpg" alt="" data-id="807" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20040724_152504_532-2/" class="wp-image-807"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2008/06/img_8399.jpg"><img loading="lazy" decoding="async" width="1600" height="1066" src="/pink-bubble/wp-content/uploads/2008/06/img_8399.jpg" alt="Boat Barco Texture" data-id="771" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_8399/" class="wp-image-771"/></a><figcaption class="blocks-gallery-item__caption">Boat BW PB Barco Texture Beautiful Fishing</figcaption></figure></li></ul></figure>
+
+
+
+<p>Some more text for taking up space.</p>
+
+
+
+<p>A two column gallery, aligned to the left, linked to media file.</p>
+
+
+
+<p>In the editor, the image captions can be edited directly by clicking on the text.</p>
+
+
+
+<p>If the number of images cannot be divided into the number of columns you have selected, the default is to have the last image(s) automatically stretch to the width of your gallery.</p>
+
+
+
+<div style="height:70px" aria-hidden="true" class="wp-block-spacer clear"></div>
+
+
+
+<p>A four column gallery with a wide width:</p>
+
+
+
+<figure class="wp-block-gallery columns-4 is-cropped alignwide featured wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2013/09/dsc20050604_133440_34211.jpg" alt="" data-id="1687" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050604_133440_34211/" class="wp-image-1687"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2014/01/dsc20050315_145007_132.jpg" alt="" data-id="1691" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050315_145007_132-2/" class="wp-image-1691"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="800" height="533" src="/pink-bubble/wp-content/uploads/2008/06/img_0513-1.jpg" alt="Huatulco Coastline" data-id="768" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/alas-i-have-found-my-shangri-la/" class="wp-image-768"/><figcaption class="blocks-gallery-item__caption">Sunrise over the coast in Huatulco, Oaxaca, Mexico</figcaption></figure></li><li class="blocks-gallery-item"><figure><img fetchpriority="high" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2008/06/canola2.jpg" alt="canola" data-id="611" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/canola2/" class="wp-image-611"/><figcaption class="blocks-gallery-item__caption">
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id,
+tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna.</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2008/06/dsc20050813_115856_52.jpg" alt="dsc20050813_115856_52" data-id="617" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050813_115856_52/" class="wp-image-617"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2008/06/dsc20050727_091048_222.jpg" alt="dsc20050727_091048_222" data-id="616" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050727_091048_222/" class="wp-image-616"/></figure></li></ul></figure>
+
+
+
+<p>A five column gallery with normal  images:</p>
+
+
+
+<figure class="wp-block-gallery columns-5 wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2013/03/featured-image-vertical.jpg"><img loading="lazy" decoding="async" width="300" height="580" src="/pink-bubble/wp-content/uploads/2013/03/featured-image-vertical.jpg" alt="Horizontal Featured Image" data-id="1027" data-link="https://wpthemetestdata.wordpress.com/2012/03/15/template-featured-image-vertical/featured-image-vertical-2/" class="wp-image-1027"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2013/03/image-alignment-300x200-1.jpg"><img loading="lazy" decoding="async" width="300" height="200" src="/pink-bubble/wp-content/uploads/2013/03/image-alignment-300x200-1.jpg" alt="Image Alignment 300x200" data-id="1025" data-link="https://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/image-alignment-300x200/" class="wp-image-1025"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2013/03/image-alignment-150x150-1.jpg"><img loading="lazy" decoding="async" width="150" height="150" src="/pink-bubble/wp-content/uploads/2013/03/image-alignment-150x150-1.jpg" alt="Image Alignment 150x150" data-id="968" data-link="https://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/image-alignment-150x150/" class="wp-image-968"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2013/03/image-alignment-580x300-1.jpg"><img loading="lazy" decoding="async" width="580" height="300" src="/pink-bubble/wp-content/uploads/2013/03/image-alignment-580x300-1.jpg" alt="Image Alignment 580x300" data-id="967" data-link="https://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/image-alignment-580x300/" class="wp-image-967"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2013/03/featured-image-horizontal.jpg"><img loading="lazy" decoding="async" width="580" height="300" src="/pink-bubble/wp-content/uploads/2013/03/featured-image-horizontal.jpg" alt="Horizontal Featured Image" data-id="1022" data-link="https://wpthemetestdata.wordpress.com/2012/03/15/template-featured-image-horizontal/featured-image-horizontal-2/" class="wp-image-1022"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2013/03/image-alignment-1200x4002-1.jpg"><img loading="lazy" decoding="async" width="1200" height="400" src="/pink-bubble/wp-content/uploads/2013/03/image-alignment-1200x4002-1.jpg" alt="Image Alignment 1200x4002" data-id="1029" data-link="https://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/image-alignment-1200x4002/" class="wp-image-1029"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2012/12/unicorn-wallpaper.jpg"><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2012/12/unicorn-wallpaper.jpg" alt="Unicorn Wallpaper" data-id="1045" data-link="https://wpthemetestdata.wordpress.com/2010/08/08/post-format-image/unicorn-wallpaper/" class="wp-image-1045"/></a></figure></li></ul></figure>
+
+
+
+<p>This is the same gallery, but <b>with cropped images</b>.</p>
+
+
+
+<figure class="wp-block-gallery columns-5 is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2013/03/featured-image-vertical.jpg"><img loading="lazy" decoding="async" width="300" height="580" src="/pink-bubble/wp-content/uploads/2013/03/featured-image-vertical.jpg" alt="Horizontal Featured Image" data-id="1027" data-link="https://wpthemetestdata.wordpress.com/2012/03/15/template-featured-image-vertical/featured-image-vertical-2/" class="wp-image-1027"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2013/03/image-alignment-300x200-1.jpg"><img loading="lazy" decoding="async" width="300" height="200" src="/pink-bubble/wp-content/uploads/2013/03/image-alignment-300x200-1.jpg" alt="Image Alignment 300x200" data-id="1025" data-link="https://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/image-alignment-300x200/" class="wp-image-1025"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2013/03/image-alignment-150x150-1.jpg"><img loading="lazy" decoding="async" width="150" height="150" src="/pink-bubble/wp-content/uploads/2013/03/image-alignment-150x150-1.jpg" alt="Image Alignment 150x150" data-id="968" data-link="https://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/image-alignment-150x150/" class="wp-image-968"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2013/03/image-alignment-580x300-1.jpg"><img loading="lazy" decoding="async" width="580" height="300" src="/pink-bubble/wp-content/uploads/2013/03/image-alignment-580x300-1.jpg" alt="Image Alignment 580x300" data-id="967" data-link="https://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/image-alignment-580x300/" class="wp-image-967"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2013/03/featured-image-horizontal.jpg"><img loading="lazy" decoding="async" width="580" height="300" src="/pink-bubble/wp-content/uploads/2013/03/featured-image-horizontal.jpg" alt="Horizontal Featured Image" data-id="1022" data-link="https://wpthemetestdata.wordpress.com/2012/03/15/template-featured-image-horizontal/featured-image-horizontal-2/" class="wp-image-1022"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2013/03/image-alignment-1200x4002-1.jpg"><img loading="lazy" decoding="async" width="1200" height="400" src="/pink-bubble/wp-content/uploads/2013/03/image-alignment-1200x4002-1.jpg" alt="Image Alignment 1200x4002" data-id="1029" data-link="https://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/image-alignment-1200x4002/" class="wp-image-1029"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2012/12/unicorn-wallpaper.jpg"><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2012/12/unicorn-wallpaper.jpg" alt="Unicorn Wallpaper" data-id="1045" data-link="https://wpthemetestdata.wordpress.com/2010/08/08/post-format-image/unicorn-wallpaper/" class="wp-image-1045"/></a></figure></li></ul></figure>
+
+
+
+<p>Six columns: does it work at all window sizes?</p>
+
+
+
+<figure class="wp-block-gallery columns-6 is-cropped extraclass wp-block-gallery-6 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="1600" height="1066" src="/pink-bubble/wp-content/uploads/2008/06/dcp_2082.jpg" alt="Boardwalk" data-id="757" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dcp_2082/" class="wp-image-757"/><figcaption class="blocks-gallery-item__caption">Boardwalk at Westport, WA</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/100_5540.jpg" alt="Golden Gate Bridge" data-id="755" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/100_5540/" class="wp-image-755"/><figcaption class="blocks-gallery-item__caption">Golden Gate Bridge</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/dsc09114.jpg" alt="Sydney Harbor Bridge" data-id="760" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc09114/" class="wp-image-760"/><figcaption class="blocks-gallery-item__caption">Sydney Harbor Bridge</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/100_5478.jpg" alt="Bell on Wharf" data-id="754" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/100_5478/" class="wp-image-754"/><figcaption class="blocks-gallery-item__caption">Bell on wharf in San Francisco</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1600" height="1066" src="/pink-bubble/wp-content/uploads/2008/06/dsc20051220_173257_119.jpg" alt="Rusty Rail" data-id="764" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20051220_173257_119/" class="wp-image-764"/><figcaption class="blocks-gallery-item__caption">
+Rusty rails with fishplate, Kojonup</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1280" height="960" src="/pink-bubble/wp-content/uploads/2008/06/dsc03149.jpg" alt="Yachtsody in Blue" data-id="758" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc03149/" class="wp-image-758"/><figcaption class="blocks-gallery-item__caption">Boats and reflections, Royal Perth Yacht Club</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1600" height="1066" src="/pink-bubble/wp-content/uploads/2008/06/dsc20051220_160808_102.jpg" alt="Antique Farm Machinery" data-id="762" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20051220_160808_102/" class="wp-image-762"/><figcaption class="blocks-gallery-item__caption">Antique farm machinery, Mount Barker Museum, Western Australia</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2010/08/manhattansummer.jpg" alt="" data-id="827" data-link="https://wpthemetestdata.wordpress.com/about/clearing-floats/olympus-digital-camera/" class="wp-image-827"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/dsc04563.jpg" alt="Rain Ripples" data-id="759" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc04563/" class="wp-image-759"/><figcaption class="blocks-gallery-item__caption">
+Raindrop ripples on a pond</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/dsc20050102_192118_51.jpg" alt="Wind Farm" data-id="761" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050102_192118_51/" class="wp-image-761"/><figcaption class="blocks-gallery-item__caption">Albany wind-farm against the sunset, Western Australia</figcaption></figure></li><li class="blocks-gallery-item"><figure><img fetchpriority="high" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2008/06/canola2.jpg" alt="canola" data-id="611" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/canola2/" class="wp-image-611"/><figcaption class="blocks-gallery-item__caption">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna.</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/windmill.jpg" alt="Windmill" data-id="767" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery//dcf-1-0/" class="wp-image-767"/><figcaption class="blocks-gallery-item__caption">Windmill shrouded in fog at a farm outside of Walker, Iowa</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1600" height="1066" src="/pink-bubble/wp-content/uploads/2008/06/img_0747.jpg" alt="Brazil Beach" data-id="769" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_0747/" class="wp-image-769"/><figcaption class="blocks-gallery-item__caption">Jericoacoara Ceara Brasil</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="800" height="533" src="/pink-bubble/wp-content/uploads/2008/06/img_0513-1.jpg" alt="Huatulco Coastline" data-id="768" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/alas-i-have-found-my-shangri-la/" class="wp-image-768"/><figcaption class="blocks-gallery-item__caption">Sunrise over the coast in Huatulco, Oaxaca, Mexico</figcaption></figure></li></ul></figure>
+
+
+
+<p>Seven columns: how does this look on a narrow window?</p>
+
+
+
+<figure class="wp-block-gallery columns-7 is-cropped wp-block-gallery-7 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2014/01/spectacles.gif"><img loading="lazy" decoding="async" width="165" height="210" src="/pink-bubble/wp-content/uploads/2014/01/spectacles.gif" alt="" data-id="1692" data-link="https://wpthemetestdata.wordpress.com/about/clearing-floats/spectacles-2/" class="wp-image-1692"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2014/01/dsc20050315_145007_132.jpg"><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2014/01/dsc20050315_145007_132.jpg" alt="" data-id="1691" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050315_145007_132-2/" class="wp-image-1691"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2013/09/dsc20050604_133440_34211.jpg"><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2013/09/dsc20050604_133440_34211.jpg" alt="" data-id="1687" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050604_133440_34211/" class="wp-image-1687"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2012/06/dsc20040724_152504_532.jpg"><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2012/06/dsc20040724_152504_532.jpg" alt="" data-id="1686" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20040724_152504_532-2/" class="wp-image-1686"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2010/08/triforce-wallpaper.jpg"><img loading="lazy" decoding="async" width="1131" height="707" src="/pink-bubble/wp-content/uploads/2010/08/triforce-wallpaper.jpg" alt="" data-id="1628" data-link="https://wpthemetestdata.wordpress.com/2010/08/07/post-format-image-caption/triforce-wallpaper/" class="wp-image-1628"/></a><figcaption class="blocks-gallery-item__caption">It’s dangerous to go alone! Take this.</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2012/12/unicorn-wallpaper.jpg"><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2012/12/unicorn-wallpaper.jpg" alt="Unicorn Wallpaper" data-id="1045" data-link="https://wpthemetestdata.wordpress.com/2010/08/08/post-format-image/unicorn-wallpaper/" class="wp-image-1045"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2010/08/manhattansummer.jpg"><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2010/08/manhattansummer.jpg" alt="" data-id="827" data-link="https://wpthemetestdata.wordpress.com/about/clearing-floats/olympus-digital-camera/" class="wp-image-827"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2013/09/dsc20050604_133440_34211.jpg"><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2013/09/dsc20050604_133440_34211.jpg" alt="" data-id="1687" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050604_133440_34211/" class="wp-image-1687"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2012/06/dsc20040724_152504_532.jpg"><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2012/06/dsc20040724_152504_532.jpg" alt="" data-id="807" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20040724_152504_532-2/" class="wp-image-807"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2008/06/img_8399.jpg"><img loading="lazy" decoding="async" width="1600" height="1066" src="/pink-bubble/wp-content/uploads/2008/06/img_8399.jpg" alt="Boat Barco Texture" data-id="771" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_8399/" class="wp-image-771"/></a><figcaption class="blocks-gallery-item__caption">Boat BW PB Barco Texture Beautiful Fishing</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2008/06/img_0767.jpg"><img loading="lazy" decoding="async" width="800" height="533" src="/pink-bubble/wp-content/uploads/2008/06/img_0767.jpg" alt="Huatulco Coastline" data-id="770" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery//img_0767/" class="wp-image-770"/></a><figcaption class="blocks-gallery-item__caption">Coastline in Huatulco, Oaxaca, Mexico</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2008/06/img_0747.jpg"><img loading="lazy" decoding="async" width="1600" height="1066" src="/pink-bubble/wp-content/uploads/2008/06/img_0747.jpg" alt="Brazil Beach" data-id="769" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_0747/" class="wp-image-769"/></a><figcaption class="blocks-gallery-item__caption">Jericoacoara Ceara Brasil</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2008/06/img_0513-1.jpg"><img loading="lazy" decoding="async" width="800" height="533" src="/pink-bubble/wp-content/uploads/2008/06/img_0513-1.jpg" alt="Huatulco Coastline" data-id="768" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/alas-i-have-found-my-shangri-la/" class="wp-image-768"/></a><figcaption class="blocks-gallery-item__caption">Sunrise over the coast in Huatulco, Oaxaca, Mexico</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2008/06/michelle_049.jpg"><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/michelle_049.jpg" alt="Big Sur" data-id="766" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/michelle_049/" class="wp-image-766"/></a><figcaption class="blocks-gallery-item__caption">Beach at Big Sur, CA</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2008/06/windmill.jpg"><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/windmill.jpg" alt="Windmill" data-id="767" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery//dcf-1-0/" class="wp-image-767"/></a><figcaption class="blocks-gallery-item__caption">Windmill shrouded in fog at a farm outside of Walker, Iowa</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2008/06/dscn3316.jpg"><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/dscn3316.jpg" alt="Sea and Rocks" data-id="765" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dscn3316/" class="wp-image-765"/></a><figcaption class="blocks-gallery-item__caption">Sea and rocks, Plimmerton, New Zealand</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="/pink-bubble/wp-content/uploads/2008/06/dsc20051220_173257_119.jpg"><img loading="lazy" decoding="async" width="1600" height="1066" src="/pink-bubble/wp-content/uploads/2008/06/dsc20051220_173257_119.jpg" alt="Rusty Rail" data-id="764" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20051220_173257_119/" class="wp-image-764"/></a><figcaption class="blocks-gallery-item__caption">Rusty rails with fishplate, Kojonup</figcaption></figure></li></ul><figcaption class="blocks-gallery-caption">images linked to media file &#8211; do captions obscure links?</figcaption></figure>
+
+
+
+<p>Eight columns:</p>
+
+
+
+<figure class="wp-block-gallery columns-8 is-cropped wp-block-gallery-8 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/canola2/"><img fetchpriority="high" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2008/06/canola2.jpg" alt="canola" data-id="611" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/canola2/" class="wp-image-611"/></a><figcaption class="blocks-gallery-item__caption">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna.</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dcp_2082"><img loading="lazy" decoding="async" width="1600" height="1066" src="/pink-bubble/wp-content/uploads/2008/06/dcp_2082.jpg" alt="Boardwalk" data-id="757" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dcp_2082" class="wp-image-757"/></a><figcaption class="blocks-gallery-item__caption">Boardwalk at Westport, WA</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/100_5540/"><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/100_5540.jpg" alt="Golden Gate Bridge" data-id="755" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/100_5540/" class="wp-image-755"/></a><figcaption class="blocks-gallery-item__caption">Golden Gate Bridge</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20051220_160808_102/"><img loading="lazy" decoding="async" width="1600" height="1066" src="/pink-bubble/wp-content/uploads/2008/06/dsc20051220_160808_102.jpg" alt="Antique Farm Machinery" data-id="762" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20051220_160808_102/" class="wp-image-762"/></a><figcaption class="blocks-gallery-item__caption">Antique farm machinery, Mount Barker Museum, Western Australia</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050102_192118_51/"><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/dsc20050102_192118_51.jpg" alt="Wind Farm" data-id="761" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050102_192118_51/" class="wp-image-761"/></a><figcaption class="blocks-gallery-item__caption">Albany wind-farm against the sunset, Western Australia</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/100_5478/"><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/100_5478.jpg" alt="Bell on Wharf" data-id="754" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/100_5478/" class="wp-image-754"/></a><figcaption class="blocks-gallery-item__caption">Bell on wharf in San Francisco</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc09114/"><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/dsc09114.jpg" alt="Sydney Harbor Bridge" data-id="760" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc09114/" class="wp-image-760"/></a><figcaption class="blocks-gallery-item__caption">Sydney Harbor Bridge</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050813_115856_52/"><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2008/06/dsc20050813_115856_52.jpg" alt="dsc20050813_115856_52" data-id="617" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050813_115856_52/" class="wp-image-617"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc04563/"><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/dsc04563.jpg" alt="Rain Ripples" data-id="759" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc04563/" class="wp-image-759"/></a><figcaption class="blocks-gallery-item__caption">Raindrop ripples on a pond</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/about/clearing-floats/olympus-digital-camera/"><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2010/08/manhattansummer.jpg" alt="" data-id="827" data-link="https://wpthemetestdata.wordpress.com/about/clearing-floats/olympus-digital-camera/" class="wp-image-827"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/08/08/post-format-image/unicorn-wallpaper/"><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2012/12/unicorn-wallpaper.jpg" alt="Unicorn Wallpaper" data-id="1045" data-link="https://wpthemetestdata.wordpress.com/2010/08/08/post-format-image/unicorn-wallpaper/" class="wp-image-1045"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_8399/"><img loading="lazy" decoding="async" width="1600" height="1066" src="/pink-bubble/wp-content/uploads/2008/06/img_8399.jpg" alt="Boat Barco Texture" data-id="771" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_8399/" class="wp-image-771"/></a><figcaption class="blocks-gallery-item__caption">Boat BW PB Barco Texture Beautiful Fishing</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20040724_152504_532-2/"><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2012/06/dsc20040724_152504_532.jpg" alt="" data-id="807" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20040724_152504_532-2/" class="wp-image-807"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc03149/"><img loading="lazy" decoding="async" width="1280" height="960" src="/pink-bubble/wp-content/uploads/2008/06/dsc03149.jpg" alt="Yachtsody in Blue" data-id="758" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc03149/" class="wp-image-758"/></a><figcaption class="blocks-gallery-item__caption">Boats and reflections, Royal Perth Yacht Club</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20051220_173257_119/"><img loading="lazy" decoding="async" width="1600" height="1066" src="/pink-bubble/wp-content/uploads/2008/06/dsc20051220_173257_119.jpg" alt="Rusty Rail" data-id="764" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20051220_173257_119/" class="wp-image-764"/></a><figcaption class="blocks-gallery-item__caption">Rusty rails with fishplate, Kojonup</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dscn3316/"><img loading="lazy" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/dscn3316.jpg" alt="Sea and Rocks" data-id="765" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dscn3316/" class="wp-image-765"/></a><figcaption class="blocks-gallery-item__caption">Sea and rocks, Plimmerton, New Zealand</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_0767/"><img loading="lazy" decoding="async" width="800" height="533" src="/pink-bubble/wp-content/uploads/2008/06/img_0767.jpg" alt="Huatulco Coastline" data-id="770" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_0767/" class="wp-image-770"/></a><figcaption class="blocks-gallery-item__caption">Coastline in Huatulco, Oaxaca, Mexico</figcaption></figure></li><li class="blocks-gallery-it
+em"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050604_133440_34211/"><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2013/09/dsc20050604_133440_34211.jpg" alt="" data-id="1687" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050604_133440_34211/" class="wp-image-1687"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050315_145007_132-2/"><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2014/01/dsc20050315_145007_132.jpg" alt="" data-id="1691" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050315_145007_132-2/" class="wp-image-1691"/></a></figure></li></ul><figcaption class="blocks-gallery-caption">images are linked, do the links work?</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/pink-bubble/block/1787.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Block: Columns</title>
+		<link>/pink-bubble/block/1783.html</link>
+					<comments>/pink-bubble/block/1783.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 02 Nov 2018 12:10:00 +0000</pubDate>
+				<category><![CDATA[Block]]></category>
+		<category><![CDATA[Columns]]></category>
+		<category><![CDATA[content περιεχόμενο]]></category>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1743</guid>
+
+					<description><![CDATA[This page tests how the theme displays the columns block. The first block tests a two column block with paragraphs. This is the second column. It should align next to the first column. Reduce the browser window width to test the responsiveness. This is the second column block. It has 3 columns. Paragraph 2 is [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>This page tests how the theme displays the columns block. The first block tests a two column block with paragraphs.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>This is the <strong>second</strong> column. It should align next to the first column. Reduce the browser window width to test the responsiveness.</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>This is the second column block. It has <strong>3</strong> columns.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Paragraph 2 is in the middle.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Paragraph 3 is in the last column.</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p> The third column block has <strong>4</strong> columns. Make sure that all the text is visible and that it is not cut off. </p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Now the columns are getting narrower.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>The margins between the columns should be wide enough,</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>so that the content of the columns does not run into or overlap each other.</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Column one.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Column two.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Column three.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Column four.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Column <strong>five</strong>.</p>
+</div>
+</div>
+
+
+
+<p>To change the number of columns, select the column block to open the settings panel. You can show up to 6 columns. If the theme has support for wide align, you can also set the alignments to wide and full width.</p>
+
+
+
+<p>Below is a column block with six columns, and no alignment:</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-5 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Column one.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Column two.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Column three.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Column four.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Column five.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Column six.</p>
+</div>
+</div>
+
+
+
+<p>Next is a 3 column block, with a wide alignment:</p>
+
+
+
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Column one.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Column two.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>Column three.</p>
+</div>
+</div>
+
+
+
+<p>And here is a two column block with full width, and a longer text. Make sure that the text wraps correctly.</p>
+
+
+
+<div class="wp-block-columns alignfull has-2-columns is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>This is column one. Sometimes, you may want to use columns to display a larger text, so, lets add some <strong>more words</strong>.   Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna. Praesent sit amet ligula id orci venenatis auctor. Phasellus porttitor, metus non tincidunt dapibus, orci pede pretium neque, sit amet adipiscing ipsum lectus et libero. <em>Aenean</em> bibendum. Curabitur mattis quam id urna. Vivamus dui. Donec nonummy lacinia lorem. Cras risus arcu, sodales ac, ultrices ac, mollis quis, justo. Sed a libero. Quisque risus erat, posuere at, tristique non, lacinia quis, eros.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p><strong>Column two.</strong> Cras volutpat, lacus quis semper pharetra, nisi enim dignissim est, et sollicitudin quam ipsum vel mi. Sed commodo urna ac urna. Nullam eu tortor. Curabitur sodales scelerisque magna. Donec ultricies tristique pede. Nullam libero. Nam sollicitudin f<em>elis vel metus. Nullam posuere molestie metus. Nullam molestie, nunc id suscipit rhoncus, felis mi </em>vulputate lacus, a ultrices tortor dolor eget augue. Aenean ultricies felis ut turpis. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse placerat tellus ac nulla. Proin adipiscing sem ac risus. Maecenas nisi. Cras semper.</p>
+</div>
+</div>
+
+
+
+<p>We can also add blocks inside columns:</p>
+
+
+
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-8 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ol class="wp-block-list"><li>This is a numbered list,</li><li>inside a 3 column block</li><li>with a wide alignment.</li></ol>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p>The middle column has a paragraph with an image block below.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2008/06/canola2.jpg" alt="canola" class="wp-image-611"/><figcaption>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna.</figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>-This third column has a quote</p><cite>Theme Reviewer<br /></cite></blockquote>
+</div>
+</div>
+
+
+
+<p><strong>But wait there is more!</strong>&nbsp; We also have a block called <em>Media &amp; Text,</em> which is a two column block that helps you display media and text content next to each other, without having to first setup a column block:</p>
+
+
+
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="640" height="480" src="/pink-bubble/wp-content/uploads/2008/06/dsc20050813_115856_52.jpg" alt="dsc20050813_115856_52" class="wp-image-617"/></figure><div class="wp-block-media-text__content">
+<p class="has-large-font-size">Media &amp; Text</p>
+
+
+
+<p>A paragraph block sits ready to be used, below your headline.</p>
+
+
+
+<p></p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/pink-bubble/block/1783.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

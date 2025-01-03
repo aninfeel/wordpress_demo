@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/pink-bubble/wp-content/uploads/2013/03/image-alignment-300x200-1.jpg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/pink-bubble/wp-content/uploads/2013/03/image-alignment-300x200-1.jpg";
+		</script>
+
+		<p>You are being redirected to <a href="/pink-bubble/wp-content/uploads/2013/03/image-alignment-300x200-1.jpg">/pink-bubble/wp-content/uploads/2013/03/image-alignment-300x200-1.jpg</a></p>
+	</body>
+</html>

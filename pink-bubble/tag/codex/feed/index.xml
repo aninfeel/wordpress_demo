@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Codex &#8211; Bubble Pink</title>
+	<atom:link href="/pink-bubble/tag/codex/feed" rel="self" type="application/rss+xml" />
+	<link>/pink-bubble/</link>
+	<description>Bubble Pink Theme Demo</description>
+	<lastBuildDate>Sun, 21 Oct 2018 03:03:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/pink-bubble/wp-content/uploads/2024/12/cropped-bb_logo-32x32.png</url>
+	<title>Codex &#8211; Bubble Pink</title>
+	<link>/pink-bubble/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Keyboard navigation</title>
+		<link>/pink-bubble/uncategorized/1724.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 21 Oct 2018 03:03:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Codex]]></category>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1724</guid>
+
+					<description><![CDATA[There are many different ways to use the web besides a mouse and a pair of eyes. Users navigate for example with a keyboard only or with their voice. All the functionality, including menus, links and forms should work using a keyboard only. This is essential for all assistive technology to work properly. The only [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>There are many different ways to use the web besides a mouse and a pair of eyes.  Users navigate for example with a keyboard only or with their voice. </p>
+
+
+
+<p>All the functionality, including menus, links and forms should work using a <strong>keyboard only</strong>. This is essential for all assistive technology to work properly. The only way to test this, at the moment, is manually. The best time to test this is during development.</p>
+
+
+
+<h3 class="wp-block-heading">How to keyboard test:</h3>
+
+
+
+<p>Tab through your pages, links and forms to do the following tests:</p>
+
+
+
+<ul class="wp-block-list"><li>Confirm that all links can be reached and activated via keyboard, including any in dropdown submenus.</li><li>Confirm that all links get a visible focus indicator (e.g., a border highlight).</li><li>Confirm that all <a href="https://make.wordpress.org/accessibility/handbook/best-practices/markup/the-css-class-screen-reader-text/">visually hidden links</a> (e.g. <a href="https://make.wordpress.org/accessibility/handbook/best-practices/markup/skip-links/">skip links</a>) become visible when in focus.</li><li>Confirm that all form input fields and buttons can be accessed and used via keyboard.</li><li>Confirm that all interactions, buttons, and other controls can be triggered via keyboard — any action you can complete with a mouse must also be performable via keyboard.</li><li>Confirm that focus doesn’t move in unexpected ways around the page.</li><li>Confirm that using shift+tab to move backwards works as well.</li></ul>
+
+
+
+<h3 class="wp-block-heading">Resources</h3>
+
+
+
+<ul class="wp-block-list"><li><a href="https://make.wordpress.org/accessibility/handbook/">The Make WordPress Accessibility Handbook </a><ul><li><a href="https://make.wordpress.org/accessibility/handbook/test-for-web-accessibility/">Test for web accessibility</a></li></ul></li><li><a href="https://webaim.org/techniques/keyboard/">Keyboard Accessibility</a> by WebAIM</li><li><a href="http://rianrietveld.com/2016/05/10/keyboard/">Workshop keyboard accessibility</a></li><li><a href="https://make.wordpress.org/themes/handbook/review/accessibility/required/">Theme review accessibility-ready requirements: Keyboard Navigation</a></li></ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Template: Featured Image (Vertical)</title>
+		<link>/pink-bubble/uncategorized/1016.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 15 Mar 2012 22:36:32 +0000</pubDate>
+				<category><![CDATA[Classic]]></category>
+		<category><![CDATA[Template]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Codex]]></category>
+		<category><![CDATA[edge case]]></category>
+		<category><![CDATA[featured image]]></category>
+		<category><![CDATA[image]]></category>
+		<category><![CDATA[template]]></category>
+		<guid isPermaLink="false">http://wptest.io/demo/?p=1016</guid>
+
+					<description><![CDATA[This post should display a featured image, if the theme supports it. Non-square images can provide some unique styling issues. This post tests a vertical featured image.]]></description>
+										<content:encoded><![CDATA[<p>This post should display a <a title="Featured Images" href="https://en.support.wordpress.com/featured-images/#setting-a-featured-image" target="_blank">featured image</a>, if the theme <a title="Post Thumbnails" href="https://codex.wordpress.org/Post_Thumbnails" target="_blank">supports it</a>.</p>
+<p>Non-square images can provide some unique styling issues.</p>
+<p>This post tests a vertical featured image.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Template: Featured Image (Horizontal)</title>
+		<link>/pink-bubble/uncategorized/1011.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 15 Mar 2012 22:15:12 +0000</pubDate>
+				<category><![CDATA[Classic]]></category>
+		<category><![CDATA[Template]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Codex]]></category>
+		<category><![CDATA[edge case]]></category>
+		<category><![CDATA[featured image]]></category>
+		<category><![CDATA[image]]></category>
+		<category><![CDATA[template]]></category>
+		<guid isPermaLink="false">http://wptest.io/demo/?p=1011</guid>
+
+					<description><![CDATA[This post should display a featured image, if the theme supports it. Non-square images can provide some unique styling issues. This post tests a horizontal featured image.]]></description>
+										<content:encoded><![CDATA[<p>This post should display a <a title="Featured Images" href="https://en.support.wordpress.com/featured-images/#setting-a-featured-image" target="_blank">featured image</a>, if the theme <a title="Post Thumbnails" href="https://codex.wordpress.org/Post_Thumbnails" target="_blank">supports it</a>.</p>
+<p>Non-square images can provide some unique styling issues.</p>
+<p>This post tests a horizontal featured image.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Edge Case: Many Tags</title>
+		<link>/pink-bubble/classic/1151.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 01 Jun 2009 08:00:34 +0000</pubDate>
+				<category><![CDATA[Classic]]></category>
+		<category><![CDATA[Edge Case]]></category>
+		<category><![CDATA[8BIT]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[captions]]></category>
+		<category><![CDATA[categories]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[Codex]]></category>
+		<category><![CDATA[comments]]></category>
+		<category><![CDATA[content περιεχόμενο]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[dowork]]></category>
+		<category><![CDATA[edge case]]></category>
+		<category><![CDATA[embeds]]></category>
+		<category><![CDATA[excerpt]]></category>
+		<category><![CDATA[Fail]]></category>
+		<category><![CDATA[featured image]]></category>
+		<category><![CDATA[FTW]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[gallery]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[image]]></category>
+		<category><![CDATA[jetpack]]></category>
+		<category><![CDATA[layout]]></category>
+		<category><![CDATA[link]]></category>
+		<category><![CDATA[Love]]></category>
+		<category><![CDATA[markup]]></category>
+		<category><![CDATA[Mothership]]></category>
+		<category><![CDATA[Must Read]]></category>
+		<category><![CDATA[Nailed It]]></category>
+		<category><![CDATA[Pictures]]></category>
+		<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[quote]]></category>
+		<category><![CDATA[shortcode]]></category>
+		<category><![CDATA[standard]]></category>
+		<category><![CDATA[Success]]></category>
+		<category><![CDATA[Swagger]]></category>
+		<category><![CDATA[Tags]]></category>
+		<category><![CDATA[template]]></category>
+		<category><![CDATA[title]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[Unseen]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[videopress]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[wordpress.tv]]></category>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2007/11/24/many-tags/</guid>
+
+					<description><![CDATA[This post has many tags.]]></description>
+										<content:encoded><![CDATA[<p>This post has many tags.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

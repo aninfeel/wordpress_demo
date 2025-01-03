@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Page with comments	</title>
+	<atom:link href="/pink-bubble/about/page-with-comments/feed" rel="self" type="application/rss+xml" />
+	<link>/pink-bubble/</link>
+	<description>Bubble Pink Theme Demo</description>
+	<lastBuildDate>Tue, 04 Sep 2007 17:48:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		By: themedemos		</title>
+		<link>/pink-bubble/about/page-with-comments#comment-5</link>
+
+		<dc:creator><![CDATA[themedemos]]></dc:creator>
+		<pubDate>Tue, 04 Sep 2007 17:48:51 +0000</pubDate>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/page-with-comments/#comment-5</guid>
+
+					<description><![CDATA[Author comment.]]></description>
+			<content:encoded><![CDATA[<p>Author comment.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Anon		</title>
+		<link>/pink-bubble/about/page-with-comments#comment-3</link>
+
+		<dc:creator><![CDATA[Anon]]></dc:creator>
+		<pubDate>Tue, 04 Sep 2007 00:49:28 +0000</pubDate>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/page-with-comments/#comment-3</guid>
+
+					<description><![CDATA[Anonymous comment.]]></description>
+			<content:encoded><![CDATA[<p>Anonymous comment.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: tellyworthtest2		</title>
+		<link>/pink-bubble/about/page-with-comments#comment-4</link>
+
+		<dc:creator><![CDATA[tellyworthtest2]]></dc:creator>
+		<pubDate>Tue, 04 Sep 2007 00:49:03 +0000</pubDate>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/page-with-comments/#comment-4</guid>
+
+					<description><![CDATA[Contributor comment.]]></description>
+			<content:encoded><![CDATA[<p>Contributor comment.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

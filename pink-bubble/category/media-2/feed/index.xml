@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Media &#8211; Bubble Pink</title>
+	<atom:link href="/pink-bubble/category/media-2/feed" rel="self" type="application/rss+xml" />
+	<link>/pink-bubble/</link>
+	<description>Bubble Pink Theme Demo</description>
+	<lastBuildDate>Thu, 01 Nov 2018 06:18:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/pink-bubble/wp-content/uploads/2024/12/cropped-bb_logo-32x32.png</url>
+	<title>Media &#8211; Bubble Pink</title>
+	<link>/pink-bubble/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Block category: Embeds</title>
+		<link>/pink-bubble/block/1781.html</link>
+					<comments>/pink-bubble/block/1781.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 01 Nov 2018 06:18:46 +0000</pubDate>
+				<category><![CDATA[Block]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[content περιεχόμενο]]></category>
+		<category><![CDATA[embeds]]></category>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=1738</guid>
+
+					<description><![CDATA[This post tests various embed blocks: ]]&#62;]]></description>
+										<content:encoded><![CDATA[
+	<![CDATA[
+<p>This post tests various embed blocks:</p>
+
+
+
+<figure class="wp-block-embed-twitter alignwide wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+https://twitter.com/WordPress/status/1057136472321613824
+</div><figcaption>Twitter,&nbsp; wide width</figcaption></figure>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/ex8fMxXJDJw
+</div><figcaption>YouTube<br /></figcaption></figure>
+
+
+
+<figure class="wp-block-embed-facebook wp-block-embed is-type-rich is-provider-facebook"><div class="wp-block-embed__wrapper">
+https://www.facebook.com/6427302910/posts/10156380423617911/
+</div></figure>
+
+
+
+<figure class="wp-block-embed-instagram wp-block-embed is-type-rich is-provider-instagram"><div class="wp-block-embed__wrapper">
+https://www.instagram.com/p/BpmueLLgEn_/?utm_source=ig_share_sheet&amp;igshid=1hcxphic7p9e2
+</div></figure>
+
+
+
+<figure class="wp-block-embed-wordpress-tv alignfull wp-block-embed is-type-video wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://wordpress.tv/2018/10/14/kjell-reigstad-allan-cole-how-we-made-our-first-gutenberg-powered-theme/
+</div><figcaption>WordPress TV, full width<br /></figcaption></figure>
+
+
+
+<p></p>
+]]&gt;]]></content:encoded>
+					
+					<wfw:commentRss>/pink-bubble/block/1781.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Media: Twitter Embeds</title>
+		<link>/pink-bubble/classic/1179.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 15 Mar 2011 22:47:16 +0000</pubDate>
+				<category><![CDATA[Classic]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[content περιεχόμενο]]></category>
+		<category><![CDATA[embeds]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[twitter]]></category>
+		<guid isPermaLink="false">http://wptest.io/demo/?p=1027</guid>
+
+					<description><![CDATA[Really cool to read through and find so much awesomeness added to WordPress 3.6 while I was gone. I should take three weeks off more often. &#8212; Andrew Nacin (@nacin) April 3, 2013 This post tests WordPress&#8217; Twitter Embeds feature.]]></description>
+										<content:encoded><![CDATA[<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Really cool to read through and find so much awesomeness added to WordPress 3.6 while I was gone. I should take three weeks off more often.</p>
+<p>&mdash; Andrew Nacin (@nacin) <a href="https://twitter.com/nacin/status/319508408669708289?ref_src=twsrc%5Etfw">April 3, 2013</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>This post tests WordPress&#8217; <a title="Twitter Embeds" href="https://en.support.wordpress.com/twitter/twitter-embeds/" target="_blank">Twitter Embeds</a> feature.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Edge Case: Many Categories</title>
+		<link>/pink-bubble/aciform/1152.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 02 Jul 2009 09:00:03 +0000</pubDate>
+				<category><![CDATA[aciform]]></category>
+		<category><![CDATA[antiquarianism]]></category>
+		<category><![CDATA[arrangement]]></category>
+		<category><![CDATA[asmodeus]]></category>
+		<category><![CDATA[broder]]></category>
+		<category><![CDATA[buying]]></category>
+		<category><![CDATA[Cat A]]></category>
+		<category><![CDATA[Cat B]]></category>
+		<category><![CDATA[Cat C]]></category>
+		<category><![CDATA[championship]]></category>
+		<category><![CDATA[chastening]]></category>
+		<category><![CDATA[Child 1]]></category>
+		<category><![CDATA[Child 2]]></category>
+		<category><![CDATA[Child Category 01]]></category>
+		<category><![CDATA[Child Category 02]]></category>
+		<category><![CDATA[Child Category 03]]></category>
+		<category><![CDATA[Child Category 04]]></category>
+		<category><![CDATA[Child Category 05]]></category>
+		<category><![CDATA[Classic]]></category>
+		<category><![CDATA[clerkship]]></category>
+		<category><![CDATA[disinclination]]></category>
+		<category><![CDATA[disinfection]]></category>
+		<category><![CDATA[dispatch]]></category>
+		<category><![CDATA[echappee]]></category>
+		<category><![CDATA[Edge Case]]></category>
+		<category><![CDATA[enphagy]]></category>
+		<category><![CDATA[equipollent]]></category>
+		<category><![CDATA[fatuity]]></category>
+		<category><![CDATA[Foo A]]></category>
+		<category><![CDATA[Foo Parent]]></category>
+		<category><![CDATA[gaberlunzie]]></category>
+		<category><![CDATA[Grandchild Category]]></category>
+		<category><![CDATA[illtempered]]></category>
+		<category><![CDATA[insubordination]]></category>
+		<category><![CDATA[lender]]></category>
+		<category><![CDATA[Markup]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[monosyllable]]></category>
+		<category><![CDATA[packthread]]></category>
+		<category><![CDATA[palter]]></category>
+		<category><![CDATA[papilionaceous]]></category>
+		<category><![CDATA[Parent]]></category>
+		<category><![CDATA[Parent Category]]></category>
+		<category><![CDATA[personable]]></category>
+		<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[propylaeum]]></category>
+		<category><![CDATA[pustule]]></category>
+		<category><![CDATA[quartern]]></category>
+		<category><![CDATA[scholarship]]></category>
+		<category><![CDATA[selfconvicted]]></category>
+		<category><![CDATA[showshoe]]></category>
+		<category><![CDATA[sloyd]]></category>
+		<category><![CDATA[sub]]></category>
+		<category><![CDATA[sublunary]]></category>
+		<category><![CDATA[tamtam]]></category>
+		<category><![CDATA[Unpublished]]></category>
+		<category><![CDATA[weakhearted]]></category>
+		<category><![CDATA[ween]]></category>
+		<category><![CDATA[wellhead]]></category>
+		<category><![CDATA[wellintentioned]]></category>
+		<category><![CDATA[whetstone]]></category>
+		<category><![CDATA[years]]></category>
+		<category><![CDATA[categories]]></category>
+		<category><![CDATA[edge case]]></category>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2007/11/24/many-categories/</guid>
+
+					<description><![CDATA[This post has many categories.]]></description>
+										<content:encoded><![CDATA[<p>This post has many categories.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

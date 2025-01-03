@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>audio &#8211; Bubble Pink</title>
+	<atom:link href="/pink-bubble/tag/audio/feed" rel="self" type="application/rss+xml" />
+	<link>/pink-bubble/</link>
+	<description>Bubble Pink Theme Demo</description>
+	<lastBuildDate>Fri, 02 Jul 2010 15:36:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/pink-bubble/wp-content/uploads/2024/12/cropped-bb_logo-32x32.png</url>
+	<title>audio &#8211; Bubble Pink</title>
+	<link>/pink-bubble/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Post Format: Audio</title>
+		<link>/pink-bubble/classic/587.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2010 15:36:44 +0000</pubDate>
+				<category><![CDATA[Classic]]></category>
+		<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[audio]]></category>
+		<category><![CDATA[shortcode]]></category>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=587</guid>
+
+					<description><![CDATA[Link: St. Louis Blues Audio shortcode:]]></description>
+										<content:encoded><![CDATA[<p>Link:</p>
+<p><a href="/pink-bubble/wp-content/uploads/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3">St. Louis Blues</a></p>
+<p>Audio shortcode:</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-587-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/pink-bubble/wp-content/uploads/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3?_=1" /><a href="/pink-bubble/wp-content/uploads/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3">/pink-bubble/wp-content/uploads/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3</a></audio>
+]]></content:encoded>
+					
+		
+		<enclosure url="/pink-bubble/wp-content/uploads/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3" length="3043247" type="audio/mpeg" />
+
+			</item>
+	</channel>
+</rss>

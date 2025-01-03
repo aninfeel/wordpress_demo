@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>Page 4: calendar</title>
-		<link>/pink-bubble/archives/33</link>
-					<comments>/pink-bubble/archives/33#respond</comments>
+		<link>/pink-bubble/cat-aa/33.html</link>
+					<comments>/pink-bubble/cat-aa/33.html#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 13 Dec 2024 02:32:29 +0000</pubDate>
@@ -40,7 +40,7 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[<div class="wp-block-calendar"><table id="wp-calendar" class="wp-calendar-table">
-	<caption>December 2024</caption>
+	<caption>January 2025</caption>
 	<thead>
 	<tr>
 		<th scope="col" title="Monday">M</th>
@@ -54,180 +54,177 @@
 	</thead>
 	<tbody>
 	<tr>
-		<td colspan="6" class="pad">&nbsp;</td><td>1</td>
+		<td colspan="2" class="pad">&nbsp;</td><td>1</td><td>2</td><td id="today">3</td><td>4</td><td>5</td>
 	</tr>
 	<tr>
-		<td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td>
+		<td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td>
 	</tr>
 	<tr>
-		<td>9</td><td>10</td><td><a href="/pink-bubble/archives/date/2024/12/11" aria-label="Posts published on December 11, 2024">11</a></td><td>12</td><td><a href="/pink-bubble/archives/date/2024/12/13" aria-label="Posts published on December 13, 2024">13</a></td><td>14</td><td>15</td>
+		<td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td>
 	</tr>
 	<tr>
-		<td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td>
+		<td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td>
 	</tr>
 	<tr>
-		<td>23</td><td>24</td><td>25</td><td>26</td><td id="today">27</td><td>28</td><td>29</td>
-	</tr>
-	<tr>
-		<td>30</td><td>31</td>
-		<td class="pad" colspan="5">&nbsp;</td>
+		<td>27</td><td>28</td><td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="2">&nbsp;</td>
 	</tr>
 	</tbody>
 	</table><nav aria-label="Previous and next months" class="wp-calendar-nav">
-		<span class="wp-calendar-nav-prev"><a href="/pink-bubble/archives/date/2023/01">&laquo; Jan</a></span>
+		<span class="wp-calendar-nav-prev"><a href="/pink-bubble/date/2024/12">&laquo; Dec</a></span>
 		<span class="pad">&nbsp;</span>
 		<span class="wp-calendar-nav-next">&nbsp;</span>
 	</nav></div>
 
-<ul class="wp-block-categories-list alignright wp-block-categories">	<li class="cat-item cat-item-12"><a href="/pink-bubble/archives/category/6-1">6.1</a>
+<ul class="wp-block-categories-list alignright wp-block-categories">	<li class="cat-item cat-item-12"><a href="/pink-bubble/category/6-1">6.1</a>
 </li>
-	<li class="cat-item cat-item-13"><a href="/pink-bubble/archives/category/aciform">aciform</a>
+	<li class="cat-item cat-item-13"><a href="/pink-bubble/category/aciform">aciform</a>
 </li>
-	<li class="cat-item cat-item-14"><a href="/pink-bubble/archives/category/antiquarianism">antiquarianism</a>
+	<li class="cat-item cat-item-14"><a href="/pink-bubble/category/antiquarianism">antiquarianism</a>
 </li>
-	<li class="cat-item cat-item-15"><a href="/pink-bubble/archives/category/arrangement">arrangement</a>
+	<li class="cat-item cat-item-15"><a href="/pink-bubble/category/arrangement">arrangement</a>
 </li>
-	<li class="cat-item cat-item-16"><a href="/pink-bubble/archives/category/asmodeus">asmodeus</a>
+	<li class="cat-item cat-item-16"><a href="/pink-bubble/category/asmodeus">asmodeus</a>
 </li>
-	<li class="cat-item cat-item-17"><a href="/pink-bubble/archives/category/block">Block</a>
+	<li class="cat-item cat-item-17"><a href="/pink-bubble/category/block">Block</a>
 </li>
-	<li class="cat-item cat-item-19"><a href="/pink-bubble/archives/category/broder">broder</a>
+	<li class="cat-item cat-item-19"><a href="/pink-bubble/category/broder">broder</a>
 </li>
-	<li class="cat-item cat-item-20"><a href="/pink-bubble/archives/category/buying">buying</a>
+	<li class="cat-item cat-item-20"><a href="/pink-bubble/category/buying">buying</a>
 </li>
-	<li class="cat-item cat-item-21"><a href="/pink-bubble/archives/category/cat-a">Cat A</a>
+	<li class="cat-item cat-item-21"><a href="/pink-bubble/category/cat-a">Cat A</a>
 </li>
-	<li class="cat-item cat-item-4"><a href="/pink-bubble/archives/category/cat-aa">cat aa</a>
+	<li class="cat-item cat-item-4"><a href="/pink-bubble/category/cat-aa">cat aa</a>
 </li>
-	<li class="cat-item cat-item-22"><a href="/pink-bubble/archives/category/cat-b">Cat B</a>
+	<li class="cat-item cat-item-22"><a href="/pink-bubble/category/cat-b">Cat B</a>
 </li>
-	<li class="cat-item cat-item-23"><a href="/pink-bubble/archives/category/cat-c">Cat C</a>
+	<li class="cat-item cat-item-23"><a href="/pink-bubble/category/cat-c">Cat C</a>
 </li>
-	<li class="cat-item cat-item-6"><a href="/pink-bubble/archives/category/cat-cc">cat cc</a>
+	<li class="cat-item cat-item-6"><a href="/pink-bubble/category/cat-cc">cat cc</a>
 </li>
-	<li class="cat-item cat-item-24"><a href="/pink-bubble/archives/category/championship">championship</a>
+	<li class="cat-item cat-item-24"><a href="/pink-bubble/category/championship">championship</a>
 </li>
-	<li class="cat-item cat-item-25"><a href="/pink-bubble/archives/category/chastening">chastening</a>
+	<li class="cat-item cat-item-25"><a href="/pink-bubble/category/chastening">chastening</a>
 </li>
-	<li class="cat-item cat-item-70"><a href="/pink-bubble/archives/category/parent/child-1">Child 1</a>
+	<li class="cat-item cat-item-70"><a href="/pink-bubble/category/parent/child-1">Child 1</a>
 </li>
-	<li class="cat-item cat-item-71"><a href="/pink-bubble/archives/category/parent/child-1/child-2">Child 2</a>
+	<li class="cat-item cat-item-71"><a href="/pink-bubble/category/parent/child-1/child-2">Child 2</a>
 </li>
-	<li class="cat-item cat-item-72"><a href="/pink-bubble/archives/category/parent-category/child-category-01">Child Category 01</a>
+	<li class="cat-item cat-item-72"><a href="/pink-bubble/category/parent-category/child-category-01">Child Category 01</a>
 </li>
-	<li class="cat-item cat-item-73"><a href="/pink-bubble/archives/category/parent-category/child-category-02">Child Category 02</a>
+	<li class="cat-item cat-item-73"><a href="/pink-bubble/category/parent-category/child-category-02">Child Category 02</a>
 </li>
-	<li class="cat-item cat-item-74"><a href="/pink-bubble/archives/category/parent-category/child-category-03">Child Category 03</a>
+	<li class="cat-item cat-item-74"><a href="/pink-bubble/category/parent-category/child-category-03">Child Category 03</a>
 </li>
-	<li class="cat-item cat-item-75"><a href="/pink-bubble/archives/category/parent-category/child-category-04">Child Category 04</a>
+	<li class="cat-item cat-item-75"><a href="/pink-bubble/category/parent-category/child-category-04">Child Category 04</a>
 </li>
-	<li class="cat-item cat-item-76"><a href="/pink-bubble/archives/category/parent-category/child-category-05">Child Category 05</a>
+	<li class="cat-item cat-item-76"><a href="/pink-bubble/category/parent-category/child-category-05">Child Category 05</a>
 </li>
-	<li class="cat-item cat-item-26"><a href="/pink-bubble/archives/category/classic">Classic</a>
+	<li class="cat-item cat-item-26"><a href="/pink-bubble/category/classic">Classic</a>
 </li>
-	<li class="cat-item cat-item-27"><a href="/pink-bubble/archives/category/clerkship">clerkship</a>
+	<li class="cat-item cat-item-27"><a href="/pink-bubble/category/clerkship">clerkship</a>
 </li>
-	<li class="cat-item cat-item-28"><a href="/pink-bubble/archives/category/disinclination">disinclination</a>
+	<li class="cat-item cat-item-28"><a href="/pink-bubble/category/disinclination">disinclination</a>
 </li>
-	<li class="cat-item cat-item-29"><a href="/pink-bubble/archives/category/disinfection">disinfection</a>
+	<li class="cat-item cat-item-29"><a href="/pink-bubble/category/disinfection">disinfection</a>
 </li>
-	<li class="cat-item cat-item-30"><a href="/pink-bubble/archives/category/dispatch">dispatch</a>
+	<li class="cat-item cat-item-30"><a href="/pink-bubble/category/dispatch">dispatch</a>
 </li>
-	<li class="cat-item cat-item-31"><a href="/pink-bubble/archives/category/echappee">echappee</a>
+	<li class="cat-item cat-item-31"><a href="/pink-bubble/category/echappee">echappee</a>
 </li>
-	<li class="cat-item cat-item-32"><a href="/pink-bubble/archives/category/edge-case-2">Edge Case</a>
+	<li class="cat-item cat-item-32"><a href="/pink-bubble/category/edge-case-2">Edge Case</a>
 </li>
-	<li class="cat-item cat-item-33"><a href="/pink-bubble/archives/category/enphagy">enphagy</a>
+	<li class="cat-item cat-item-33"><a href="/pink-bubble/category/enphagy">enphagy</a>
 </li>
-	<li class="cat-item cat-item-34"><a href="/pink-bubble/archives/category/equipollent">equipollent</a>
+	<li class="cat-item cat-item-34"><a href="/pink-bubble/category/equipollent">equipollent</a>
 </li>
-	<li class="cat-item cat-item-35"><a href="/pink-bubble/archives/category/fatuity">fatuity</a>
+	<li class="cat-item cat-item-35"><a href="/pink-bubble/category/fatuity">fatuity</a>
 </li>
-	<li class="cat-item cat-item-36"><a href="/pink-bubble/archives/category/foo-a">Foo A</a>
+	<li class="cat-item cat-item-36"><a href="/pink-bubble/category/foo-a">Foo A</a>
 </li>
-	<li class="cat-item cat-item-77"><a href="/pink-bubble/archives/category/foo-parent/foo-a-foo-parent">Foo A</a>
+	<li class="cat-item cat-item-77"><a href="/pink-bubble/category/foo-parent/foo-a-foo-parent">Foo A</a>
 </li>
-	<li class="cat-item cat-item-37"><a href="/pink-bubble/archives/category/foo-parent">Foo Parent</a>
+	<li class="cat-item cat-item-37"><a href="/pink-bubble/category/foo-parent">Foo Parent</a>
 </li>
-	<li class="cat-item cat-item-38"><a href="/pink-bubble/archives/category/gaberlunzie">gaberlunzie</a>
+	<li class="cat-item cat-item-38"><a href="/pink-bubble/category/gaberlunzie">gaberlunzie</a>
 </li>
-	<li class="cat-item cat-item-78"><a href="/pink-bubble/archives/category/parent-category/child-category-03/grandchild-category">Grandchild Category</a>
+	<li class="cat-item cat-item-78"><a href="/pink-bubble/category/parent-category/child-category-03/grandchild-category">Grandchild Category</a>
 </li>
-	<li class="cat-item cat-item-39"><a href="/pink-bubble/archives/category/illtempered">illtempered</a>
+	<li class="cat-item cat-item-39"><a href="/pink-bubble/category/illtempered">illtempered</a>
 </li>
-	<li class="cat-item cat-item-40"><a href="/pink-bubble/archives/category/insubordination">insubordination</a>
+	<li class="cat-item cat-item-40"><a href="/pink-bubble/category/insubordination">insubordination</a>
 </li>
-	<li class="cat-item cat-item-41"><a href="/pink-bubble/archives/category/lender">lender</a>
+	<li class="cat-item cat-item-41"><a href="/pink-bubble/category/lender">lender</a>
 </li>
-	<li class="cat-item cat-item-42"><a href="/pink-bubble/archives/category/markup">Markup</a>
+	<li class="cat-item cat-item-42"><a href="/pink-bubble/category/markup">Markup</a>
 </li>
-	<li class="cat-item cat-item-43"><a href="/pink-bubble/archives/category/media-2">Media</a>
+	<li class="cat-item cat-item-43"><a href="/pink-bubble/category/media-2">Media</a>
 </li>
-	<li class="cat-item cat-item-44"><a href="/pink-bubble/archives/category/monosyllable">monosyllable</a>
+	<li class="cat-item cat-item-44"><a href="/pink-bubble/category/monosyllable">monosyllable</a>
 </li>
-	<li class="cat-item cat-item-45"><a href="/pink-bubble/archives/category/packthread">packthread</a>
+	<li class="cat-item cat-item-45"><a href="/pink-bubble/category/packthread">packthread</a>
 </li>
-	<li class="cat-item cat-item-46"><a href="/pink-bubble/archives/category/palter">palter</a>
+	<li class="cat-item cat-item-46"><a href="/pink-bubble/category/palter">palter</a>
 </li>
-	<li class="cat-item cat-item-47"><a href="/pink-bubble/archives/category/papilionaceous">papilionaceous</a>
+	<li class="cat-item cat-item-47"><a href="/pink-bubble/category/papilionaceous">papilionaceous</a>
 </li>
-	<li class="cat-item cat-item-48"><a href="/pink-bubble/archives/category/parent">Parent</a>
+	<li class="cat-item cat-item-48"><a href="/pink-bubble/category/parent">Parent</a>
 </li>
-	<li class="cat-item cat-item-49"><a href="/pink-bubble/archives/category/parent-category">Parent Category</a>
+	<li class="cat-item cat-item-49"><a href="/pink-bubble/category/parent-category">Parent Category</a>
 </li>
-	<li class="cat-item cat-item-50"><a href="/pink-bubble/archives/category/personable">personable</a>
+	<li class="cat-item cat-item-50"><a href="/pink-bubble/category/personable">personable</a>
 </li>
-	<li class="cat-item cat-item-51"><a href="/pink-bubble/archives/category/post-formats">Post Formats</a>
+	<li class="cat-item cat-item-51"><a href="/pink-bubble/category/post-formats">Post Formats</a>
 </li>
-	<li class="cat-item cat-item-52"><a href="/pink-bubble/archives/category/propylaeum">propylaeum</a>
+	<li class="cat-item cat-item-52"><a href="/pink-bubble/category/propylaeum">propylaeum</a>
 </li>
-	<li class="cat-item cat-item-53"><a href="/pink-bubble/archives/category/pustule">pustule</a>
+	<li class="cat-item cat-item-53"><a href="/pink-bubble/category/pustule">pustule</a>
 </li>
-	<li class="cat-item cat-item-54"><a href="/pink-bubble/archives/category/quartern">quartern</a>
+	<li class="cat-item cat-item-54"><a href="/pink-bubble/category/quartern">quartern</a>
 </li>
-	<li class="cat-item cat-item-55"><a href="/pink-bubble/archives/category/scholarship">scholarship</a>
+	<li class="cat-item cat-item-55"><a href="/pink-bubble/category/scholarship">scholarship</a>
 </li>
-	<li class="cat-item cat-item-56"><a href="/pink-bubble/archives/category/selfconvicted">selfconvicted</a>
+	<li class="cat-item cat-item-56"><a href="/pink-bubble/category/selfconvicted">selfconvicted</a>
 </li>
-	<li class="cat-item cat-item-57"><a href="/pink-bubble/archives/category/showshoe">showshoe</a>
+	<li class="cat-item cat-item-57"><a href="/pink-bubble/category/showshoe">showshoe</a>
 </li>
-	<li class="cat-item cat-item-58"><a href="/pink-bubble/archives/category/sloyd">sloyd</a>
+	<li class="cat-item cat-item-58"><a href="/pink-bubble/category/sloyd">sloyd</a>
 </li>
-	<li class="cat-item cat-item-59"><a href="/pink-bubble/archives/category/aciform/sub">sub</a>
+	<li class="cat-item cat-item-59"><a href="/pink-bubble/category/aciform/sub">sub</a>
 </li>
-	<li class="cat-item cat-item-60"><a href="/pink-bubble/archives/category/sublunary">sublunary</a>
+	<li class="cat-item cat-item-60"><a href="/pink-bubble/category/sublunary">sublunary</a>
 </li>
-	<li class="cat-item cat-item-61"><a href="/pink-bubble/archives/category/tamtam">tamtam</a>
+	<li class="cat-item cat-item-61"><a href="/pink-bubble/category/tamtam">tamtam</a>
 </li>
-	<li class="cat-item cat-item-62"><a href="/pink-bubble/archives/category/template-2">Template</a>
+	<li class="cat-item cat-item-62"><a href="/pink-bubble/category/template-2">Template</a>
 </li>
-	<li class="cat-item cat-item-1"><a href="/pink-bubble/archives/category/uncategorized">Uncategorized</a>
+	<li class="cat-item cat-item-1"><a href="/pink-bubble/category/uncategorized">Uncategorized</a>
 </li>
-	<li class="cat-item cat-item-63"><a href="/pink-bubble/archives/category/unpublished">Unpublished</a>
+	<li class="cat-item cat-item-63"><a href="/pink-bubble/category/unpublished">Unpublished</a>
 </li>
-	<li class="cat-item cat-item-64"><a href="/pink-bubble/archives/category/weakhearted">weakhearted</a>
+	<li class="cat-item cat-item-64"><a href="/pink-bubble/category/weakhearted">weakhearted</a>
 </li>
-	<li class="cat-item cat-item-65"><a href="/pink-bubble/archives/category/ween">ween</a>
+	<li class="cat-item cat-item-65"><a href="/pink-bubble/category/ween">ween</a>
 </li>
-	<li class="cat-item cat-item-66"><a href="/pink-bubble/archives/category/wellhead">wellhead</a>
+	<li class="cat-item cat-item-66"><a href="/pink-bubble/category/wellhead">wellhead</a>
 </li>
-	<li class="cat-item cat-item-67"><a href="/pink-bubble/archives/category/wellintentioned">wellintentioned</a>
+	<li class="cat-item cat-item-67"><a href="/pink-bubble/category/wellintentioned">wellintentioned</a>
 </li>
-	<li class="cat-item cat-item-68"><a href="/pink-bubble/archives/category/whetstone">whetstone</a>
+	<li class="cat-item cat-item-68"><a href="/pink-bubble/category/whetstone">whetstone</a>
 </li>
-	<li class="cat-item cat-item-69"><a href="/pink-bubble/archives/category/years">years</a>
+	<li class="cat-item cat-item-69"><a href="/pink-bubble/category/years">years</a>
 </li>
 </ul>]]></content:encoded>
 					
-					<wfw:commentRss>/pink-bubble/archives/33/feed</wfw:commentRss>
+					<wfw:commentRss>/pink-bubble/cat-aa/33.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Post 2: xxx</title>
-		<link>/pink-bubble/archives/24</link>
-					<comments>/pink-bubble/archives/24#respond</comments>
+		<link>/pink-bubble/uncategorized/24.html</link>
+					<comments>/pink-bubble/uncategorized/24.html#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 13 Dec 2024 02:19:58 +0000</pubDate>
@@ -241,7 +238,7 @@
 
 
 <div class="wp-block-query is-layout-flow wp-block-query-is-layout-flow"><ul class="wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow"><li class="wp-block-post post-1241 post type-post status-publish format-standard hentry category-classic category-uncategorized tag-sticky-2 tag-template">
-<h2 class="wp-block-post-title"><a href="/pink-bubble/archives/1241" target="_self" >Template: Sticky</a></h2>
+<h2 class="wp-block-post-title"><a href="/pink-bubble/uncategorized/1241.html" target="_self" >Template: Sticky</a></h2>
 
 
 
@@ -253,7 +250,7 @@
 
 <div class="wp-block-post-date"><time datetime="2012-01-07T07:07:21+00:00">January 7, 2012</time></div>
 </li><li class="wp-block-post post-33 post type-post status-publish format-standard hentry category-cat-aa category-cat-cc">
-<h2 class="wp-block-post-title"><a href="/pink-bubble/archives/33" target="_self" >Page 4: calendar</a></h2>
+<h2 class="wp-block-post-title"><a href="/pink-bubble/cat-aa/33.html" target="_self" >Page 4: calendar</a></h2>
 
 
 
@@ -265,7 +262,7 @@
 
 <div class="wp-block-post-date"><time datetime="2024-12-13T02:32:29+00:00">December 13, 2024</time></div>
 </li><li class="wp-block-post post-24 post type-post status-publish format-standard hentry category-uncategorized">
-<h2 class="wp-block-post-title"><a href="/pink-bubble/archives/24" target="_self" >Post 2: xxx</a></h2>
+<h2 class="wp-block-post-title"><a href="/pink-bubble/uncategorized/24.html" target="_self" >Post 2: xxx</a></h2>
 
 
 
@@ -277,7 +274,7 @@
 
 <div class="wp-block-post-date"><time datetime="2024-12-13T02:19:58+00:00">December 13, 2024</time></div>
 </li><li class="wp-block-post post-22 post type-post status-publish format-standard hentry category-uncategorized">
-<h2 class="wp-block-post-title"><a href="/pink-bubble/archives/22" target="_self" >Post 1: gogogo</a></h2>
+<h2 class="wp-block-post-title"><a href="/pink-bubble/uncategorized/22.html" target="_self" >Post 1: gogogo</a></h2>
 
 
 
@@ -289,7 +286,7 @@
 
 <div class="wp-block-post-date"><time datetime="2024-12-13T02:18:45+00:00">December 13, 2024</time></div>
 </li><li class="wp-block-post post-1 post type-post status-publish format-standard hentry category-uncategorized">
-<h2 class="wp-block-post-title"><a href="/pink-bubble/archives/1" target="_self" >Page 0: Hello world!</a></h2>
+<h2 class="wp-block-post-title"><a href="/pink-bubble/uncategorized/1.html" target="_self" >Page 0: Hello world!</a></h2>
 
 
 
@@ -301,7 +298,7 @@
 
 <div class="wp-block-post-date"><time datetime="2024-12-11T02:29:14+00:00">December 11, 2024</time></div>
 </li><li class="wp-block-post post-163 post type-post status-publish format-standard hentry category-6-1 category-block">
-<h2 class="wp-block-post-title"><a href="/pink-bubble/archives/163" target="_self" >WP 6.1 Font size scale</a></h2>
+<h2 class="wp-block-post-title"><a href="/pink-bubble/6-1/163.html" target="_self" >WP 6.1 Font size scale</a></h2>
 
 
 
@@ -313,7 +310,7 @@
 
 <div class="wp-block-post-date"><time datetime="2023-01-16T07:08:31+00:00">January 16, 2023</time></div>
 </li><li class="wp-block-post post-150 post type-post status-publish format-standard hentry category-6-1 category-block">
-<h2 class="wp-block-post-title"><a href="/pink-bubble/archives/150" target="_self" >WP 6.1 spacing presets</a></h2>
+<h2 class="wp-block-post-title"><a href="/pink-bubble/6-1/150.html" target="_self" >WP 6.1 spacing presets</a></h2>
 
 
 
@@ -325,9 +322,9 @@
 
 <div class="wp-block-post-date"><time datetime="2023-01-16T06:56:53+00:00">January 16, 2023</time></div>
 </li><li class="wp-block-post post-164 post type-post status-publish format-standard has-post-thumbnail hentry category-6-1 category-block">
-<h2 class="wp-block-post-title"><a href="/pink-bubble/archives/164" target="_self" >WP 6.1 Theme block category</a></h2>
+<h2 class="wp-block-post-title"><a href="/pink-bubble/6-1/164.html" target="_self" >WP 6.1 Theme block category</a></h2>
 
-<figure class="alignwide wp-block-post-featured-image"><a href="/pink-bubble/archives/164" target="_self"  ><img fetchpriority="high" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/dsc20050102_192118_51.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="WP 6.1 Theme block category" style="object-fit:cover;" /></a></figure>
+<figure class="alignwide wp-block-post-featured-image"><a href="/pink-bubble/6-1/164.html" target="_self"  ><img fetchpriority="high" decoding="async" width="1600" height="1200" src="/pink-bubble/wp-content/uploads/2008/06/dsc20050102_192118_51.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="WP 6.1 Theme block category" style="object-fit:cover;" /></a></figure>
 
 <div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">This test post was generated using the block theme Emptytheme in WordPress 6.1.1. Navigation block with page list: Site logo: Site title: Tagline block: Query loop &#8220;Title &amp; Date&#8221; variation: Query loop &#8220;Title &amp; Excerpt&#8221; variation: Query loop &#8220;Title, Date &amp; Excerpt&#8221; variation: Query loop &#8220;Image, Date &amp; Title&#8221; variation: Avatar block: Post title block:&hellip; </p></div>
 
@@ -337,7 +334,7 @@
 
 <div class="wp-block-post-date"><time datetime="2023-01-13T18:38:05+00:00">January 13, 2023</time></div>
 </li><li class="wp-block-post post-165 post type-post status-publish format-standard hentry category-6-1 category-block tag-sample tag-tags tag-test-tag">
-<h2 class="wp-block-post-title"><a href="/pink-bubble/archives/165" target="_self" >WP 6.1 Widgets block category</a></h2>
+<h2 class="wp-block-post-title"><a href="/pink-bubble/6-1/165.html" target="_self" >WP 6.1 Widgets block category</a></h2>
 
 
 
@@ -349,7 +346,7 @@
 
 <div class="wp-block-post-date"><time datetime="2023-01-13T18:22:21+00:00">January 13, 2023</time></div>
 </li><li class="wp-block-post post-166 post type-post status-publish format-standard hentry category-6-1 category-block">
-<h2 class="wp-block-post-title"><a href="/pink-bubble/archives/166" target="_self" >WP 6.1 Design category blocks</a></h2>
+<h2 class="wp-block-post-title"><a href="/pink-bubble/6-1/166.html" target="_self" >WP 6.1 Design category blocks</a></h2>
 
 
 
@@ -361,7 +358,7 @@
 
 <div class="wp-block-post-date"><time datetime="2023-01-13T18:03:23+00:00">January 13, 2023</time></div>
 </li><li class="wp-block-post post-167 post type-post status-publish format-standard hentry category-6-1 category-block">
-<h2 class="wp-block-post-title"><a href="/pink-bubble/archives/167" target="_self" >WP 6.1 Media category blocks</a></h2>
+<h2 class="wp-block-post-title"><a href="/pink-bubble/6-1/167.html" target="_self" >WP 6.1 Media category blocks</a></h2>
 
 
 
@@ -375,15 +372,15 @@
 </li></ul></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/pink-bubble/archives/24/feed</wfw:commentRss>
+					<wfw:commentRss>/pink-bubble/uncategorized/24.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Post 1: gogogo</title>
-		<link>/pink-bubble/archives/22</link>
-					<comments>/pink-bubble/archives/22#respond</comments>
+		<link>/pink-bubble/uncategorized/22.html</link>
+					<comments>/pink-bubble/uncategorized/22.html#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 13 Dec 2024 02:18:45 +0000</pubDate>
@@ -395,15 +392,15 @@
 <p>fsfdsafasfas</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/pink-bubble/archives/22/feed</wfw:commentRss>
+					<wfw:commentRss>/pink-bubble/uncategorized/22.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Page 0: Hello world!</title>
-		<link>/pink-bubble/archives/1</link>
-					<comments>/pink-bubble/archives/1#comments</comments>
+		<link>/pink-bubble/uncategorized/1.html</link>
+					<comments>/pink-bubble/uncategorized/1.html#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 11 Dec 2024 02:29:14 +0000</pubDate>
@@ -443,15 +440,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/pink-bubble/archives/1/feed</wfw:commentRss>
+					<wfw:commentRss>/pink-bubble/uncategorized/1.html/feed</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>WP 6.1 Font size scale</title>
-		<link>/pink-bubble/archives/163</link>
-					<comments>/pink-bubble/archives/163#respond</comments>
+		<link>/pink-bubble/6-1/163.html</link>
+					<comments>/pink-bubble/6-1/163.html#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 16 Jan 2023 07:08:31 +0000</pubDate>
@@ -497,15 +494,15 @@
 ]]&gt;
 	]]></content:encoded>
 					
-					<wfw:commentRss>/pink-bubble/archives/163/feed</wfw:commentRss>
+					<wfw:commentRss>/pink-bubble/6-1/163.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>WP 6.1 spacing presets</title>
-		<link>/pink-bubble/archives/150</link>
-					<comments>/pink-bubble/archives/150#respond</comments>
+		<link>/pink-bubble/6-1/150.html</link>
+					<comments>/pink-bubble/6-1/150.html#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 16 Jan 2023 06:56:53 +0000</pubDate>
@@ -642,15 +639,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/pink-bubble/archives/150/feed</wfw:commentRss>
+					<wfw:commentRss>/pink-bubble/6-1/150.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>WP 6.1 Theme block category</title>
-		<link>/pink-bubble/archives/164</link>
-					<comments>/pink-bubble/archives/164#comments</comments>
+		<link>/pink-bubble/6-1/164.html</link>
+					<comments>/pink-bubble/6-1/164.html#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 13 Jan 2023 18:38:05 +0000</pubDate>
@@ -743,12 +740,12 @@
 
 
 <div class="wp-block-query-pagination-numbers"><span aria-current="page" class="page-numbers current">1</span>
-<a class="page-numbers" href="?query-0-page=2&#038;simply_static_page=25">2</a>
-<a class="page-numbers" href="?query-0-page=3&#038;simply_static_page=25">3</a>
+<a class="page-numbers" href="?query-0-page=2&#038;simply_static_page=1999">2</a>
+<a class="page-numbers" href="?query-0-page=3&#038;simply_static_page=1999">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="?query-0-page=20&#038;simply_static_page=25">20</a></div>
+<a class="page-numbers" href="?query-0-page=20&#038;simply_static_page=1999">20</a></div>
 
-<a href="/feed?simply_static_page=25&#038;query-0-page=2" class="wp-block-query-pagination-next">Next Page</a>
+<a href="/feed?simply_static_page=1999&#038;query-0-page=2" class="wp-block-query-pagination-next">Next Page</a>
 </nav>
 
 </div>
@@ -781,12 +778,12 @@
 
 
 <div class="wp-block-query-pagination-numbers"><span aria-current="page" class="page-numbers current">1</span>
-<a class="page-numbers" href="?query-1-page=2&#038;simply_static_page=25">2</a>
-<a class="page-numbers" href="?query-1-page=3&#038;simply_static_page=25">3</a>
+<a class="page-numbers" href="?query-1-page=2&#038;simply_static_page=1999">2</a>
+<a class="page-numbers" href="?query-1-page=3&#038;simply_static_page=1999">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="?query-1-page=20&#038;simply_static_page=25">20</a></div>
+<a class="page-numbers" href="?query-1-page=20&#038;simply_static_page=1999">20</a></div>
 
-<a href="/feed?simply_static_page=25&#038;query-1-page=2" class="wp-block-query-pagination-next">Next Page</a>
+<a href="/feed?simply_static_page=1999&#038;query-1-page=2" class="wp-block-query-pagination-next">Next Page</a>
 </nav>
 
 </div>
@@ -827,12 +824,12 @@
 
 
 <div class="wp-block-query-pagination-numbers"><span aria-current="page" class="page-numbers current">1</span>
-<a class="page-numbers" href="?query-2-page=2&#038;simply_static_page=25">2</a>
-<a class="page-numbers" href="?query-2-page=3&#038;simply_static_page=25">3</a>
+<a class="page-numbers" href="?query-2-page=2&#038;simply_static_page=1999">2</a>
+<a class="page-numbers" href="?query-2-page=3&#038;simply_static_page=1999">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="?query-2-page=20&#038;simply_static_page=25">20</a></div>
+<a class="page-numbers" href="?query-2-page=20&#038;simply_static_page=1999">20</a></div>
 
-<a href="/feed?simply_static_page=25&#038;query-2-page=2" class="wp-block-query-pagination-next">Next Page</a>
+<a href="/feed?simply_static_page=1999&#038;query-2-page=2" class="wp-block-query-pagination-next">Next Page</a>
 </nav>
 
 </div>
@@ -873,12 +870,12 @@
 
 
 <div class="wp-block-query-pagination-numbers"><span aria-current="page" class="page-numbers current">1</span>
-<a class="page-numbers" href="?query-5-page=2&#038;simply_static_page=25">2</a>
-<a class="page-numbers" href="?query-5-page=3&#038;simply_static_page=25">3</a>
+<a class="page-numbers" href="?query-5-page=2&#038;simply_static_page=1999">2</a>
+<a class="page-numbers" href="?query-5-page=3&#038;simply_static_page=1999">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="?query-5-page=20&#038;simply_static_page=25">20</a></div>
+<a class="page-numbers" href="?query-5-page=20&#038;simply_static_page=1999">20</a></div>
 
-<a href="/feed?simply_static_page=25&#038;query-5-page=2" class="wp-block-query-pagination-next">Next Page</a>
+<a href="/feed?simply_static_page=1999&#038;query-5-page=2" class="wp-block-query-pagination-next">Next Page</a>
 </nav>
 
 </div>
@@ -924,7 +921,7 @@
 <p>Categories:</p>
 
 
-<div class="taxonomy-category wp-block-post-terms"><a href="/pink-bubble/archives/category/6-1" rel="tag">6.1</a><span class="wp-block-post-terms__separator">, </span><a href="/pink-bubble/archives/category/block" rel="tag">Block</a></div>
+<div class="taxonomy-category wp-block-post-terms"><a href="/pink-bubble/category/6-1" rel="tag">6.1</a><span class="wp-block-post-terms__separator">, </span><a href="/pink-bubble/category/block" rel="tag">Block</a></div>
 
 
 <p>Tags:</p>
@@ -944,7 +941,7 @@
 <p>Read More:</p>
 
 
-<a class="wp-block-read-more" href="/pink-bubble/archives/164" target="_self">Read more<span class="screen-reader-text">: WP 6.1 Theme block category</span></a>
+<a class="wp-block-read-more" href="/pink-bubble/6-1/164.html" target="_self">Read more<span class="screen-reader-text">: WP 6.1 Theme block category</span></a>
 
 
 <p>Comments block:</p>
@@ -963,7 +960,7 @@
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><div class="wp-block-comment-author-name has-small-font-size"><a rel="external nofollow ugc" href="https://wpthemetestdata.wordpress.com/" target="_self" >themedemos</a></div>
 
 
-<div class="wp-block-group is-layout-flex wp-block-group-is-layout-flex" style="margin-top:0px;margin-bottom:0px"><div class="wp-block-comment-date has-small-font-size"><time datetime="2023-01-16T07:17:56+00:00"><a href="/pink-bubble/archives/164#comment-2">January 16, 2023</a></time></div>
+<div class="wp-block-group is-layout-flex wp-block-group-is-layout-flex" style="margin-top:0px;margin-bottom:0px"><div class="wp-block-comment-date has-small-font-size"><time datetime="2023-01-16T07:17:56+00:00"><a href="/pink-bubble/6-1/164.html#comment-2">January 16, 2023</a></time></div>
 
 </div>
 
@@ -971,7 +968,7 @@
 <div class="wp-block-comment-content"><p>This test post needs a comment.</p>
 </div>
 
-<div class="wp-block-comment-reply-link has-small-font-size"><a rel="nofollow" class="comment-reply-link" href="/pink-bubble/archives/164?replytocom=2#respond" data-commentid="2" data-postid="164" data-belowelement="comment-2" data-respondelement="respond" data-replyto="Reply to themedemos" aria-label="Reply to themedemos">Reply</a></div></div>
+<div class="wp-block-comment-reply-link has-small-font-size"><a rel="nofollow" class="comment-reply-link" href="/pink-bubble/6-1/164.html?replytocom=2#respond" data-commentid="2" data-postid="164" data-belowelement="comment-2" data-respondelement="respond" data-replyto="Reply to themedemos" aria-label="Reply to themedemos">Reply</a></div></div>
 </div>
 
 </li></ol>
@@ -979,7 +976,7 @@
 
 
 	<div id="respond" class="comment-respond wp-block-post-comments-form">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/feed?simply_static_page=25#respond" style="display:none;">Cancel reply</a></small></h3><form action="/pink-bubble/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/feed?simply_static_page=1999#respond" style="display:none;">Cancel reply</a></small></h3><form action="/pink-bubble/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
 <p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required /></p>
 <p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
 <p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
@@ -994,7 +991,7 @@
 
 
 	<div id="respond" class="comment-respond wp-block-post-comments-form">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/feed?simply_static_page=25#respond" style="display:none;">Cancel reply</a></small></h3><form action="/pink-bubble/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/feed?simply_static_page=1999#respond" style="display:none;">Cancel reply</a></small></h3><form action="/pink-bubble/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
 <p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required /></p>
 <p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
 <p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
@@ -1007,7 +1004,7 @@
 <p>Login/out:</p>
 
 
-<div class="logged-out wp-block-loginout"><a href="/pink-bubble/wp-login.php?redirect_to=%2Fpink-bubble%2Ffeed%3Fsimply_static_page%3D25">Log in</a></div>
+<div class="logged-out wp-block-loginout"><a href="/pink-bubble/wp-login.php?redirect_to=%2Fpink-bubble%2Ffeed%3Fsimply_static_page%3D1999">Log in</a></div>
 
 
 
@@ -1029,15 +1026,15 @@
 <p><em>Term description, archive title, search results title can not be shown on single posts.</em></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/pink-bubble/archives/164/feed</wfw:commentRss>
+					<wfw:commentRss>/pink-bubble/6-1/164.html/feed</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>WP 6.1 Widgets block category</title>
-		<link>/pink-bubble/archives/165</link>
-					<comments>/pink-bubble/archives/165#respond</comments>
+		<link>/pink-bubble/6-1/165.html</link>
+					<comments>/pink-bubble/6-1/165.html#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 13 Jan 2023 18:22:21 +0000</pubDate>
@@ -1057,34 +1054,34 @@
 <p>Archives block:</p>
 
 
-<ul class="wp-block-archives-list wp-block-archives">	<li><a href='/pink-bubble/archives/date/2024/12'>December 2024</a></li>
-	<li><a href='/pink-bubble/archives/date/2023/01'>January 2023</a></li>
-	<li><a href='/pink-bubble/archives/date/2018/11'>November 2018</a></li>
-	<li><a href='/pink-bubble/archives/date/2018/10'>October 2018</a></li>
-	<li><a href='/pink-bubble/archives/date/2013/01'>January 2013</a></li>
-	<li><a href='/pink-bubble/archives/date/2012/03'>March 2012</a></li>
-	<li><a href='/pink-bubble/archives/date/2012/01'>January 2012</a></li>
-	<li><a href='/pink-bubble/archives/date/2011/03'>March 2011</a></li>
-	<li><a href='/pink-bubble/archives/date/2010/10'>October 2010</a></li>
-	<li><a href='/pink-bubble/archives/date/2010/09'>September 2010</a></li>
-	<li><a href='/pink-bubble/archives/date/2010/08'>August 2010</a></li>
-	<li><a href='/pink-bubble/archives/date/2010/07'>July 2010</a></li>
-	<li><a href='/pink-bubble/archives/date/2010/06'>June 2010</a></li>
-	<li><a href='/pink-bubble/archives/date/2010/05'>May 2010</a></li>
-	<li><a href='/pink-bubble/archives/date/2010/04'>April 2010</a></li>
-	<li><a href='/pink-bubble/archives/date/2010/03'>March 2010</a></li>
-	<li><a href='/pink-bubble/archives/date/2010/02'>February 2010</a></li>
-	<li><a href='/pink-bubble/archives/date/2010/01'>January 2010</a></li>
-	<li><a href='/pink-bubble/archives/date/2009/10'>October 2009</a></li>
-	<li><a href='/pink-bubble/archives/date/2009/09'>September 2009</a></li>
-	<li><a href='/pink-bubble/archives/date/2009/08'>August 2009</a></li>
-	<li><a href='/pink-bubble/archives/date/2009/07'>July 2009</a></li>
-	<li><a href='/pink-bubble/archives/date/2009/06'>June 2009</a></li>
-	<li><a href='/pink-bubble/archives/date/2009/05'>May 2009</a></li>
+<ul class="wp-block-archives-list wp-block-archives">	<li><a href='/pink-bubble/date/2024/12'>December 2024</a></li>
+	<li><a href='/pink-bubble/date/2023/01'>January 2023</a></li>
+	<li><a href='/pink-bubble/date/2018/11'>November 2018</a></li>
+	<li><a href='/pink-bubble/date/2018/10'>October 2018</a></li>
+	<li><a href='/pink-bubble/date/2013/01'>January 2013</a></li>
+	<li><a href='/pink-bubble/date/2012/03'>March 2012</a></li>
+	<li><a href='/pink-bubble/date/2012/01'>January 2012</a></li>
+	<li><a href='/pink-bubble/date/2011/03'>March 2011</a></li>
+	<li><a href='/pink-bubble/date/2010/10'>October 2010</a></li>
+	<li><a href='/pink-bubble/date/2010/09'>September 2010</a></li>
+	<li><a href='/pink-bubble/date/2010/08'>August 2010</a></li>
+	<li><a href='/pink-bubble/date/2010/07'>July 2010</a></li>
+	<li><a href='/pink-bubble/date/2010/06'>June 2010</a></li>
+	<li><a href='/pink-bubble/date/2010/05'>May 2010</a></li>
+	<li><a href='/pink-bubble/date/2010/04'>April 2010</a></li>
+	<li><a href='/pink-bubble/date/2010/03'>March 2010</a></li>
+	<li><a href='/pink-bubble/date/2010/02'>February 2010</a></li>
+	<li><a href='/pink-bubble/date/2010/01'>January 2010</a></li>
+	<li><a href='/pink-bubble/date/2009/10'>October 2009</a></li>
+	<li><a href='/pink-bubble/date/2009/09'>September 2009</a></li>
+	<li><a href='/pink-bubble/date/2009/08'>August 2009</a></li>
+	<li><a href='/pink-bubble/date/2009/07'>July 2009</a></li>
+	<li><a href='/pink-bubble/date/2009/06'>June 2009</a></li>
+	<li><a href='/pink-bubble/date/2009/05'>May 2009</a></li>
 </ul>
 
 <div class="wp-block-calendar"><table id="wp-calendar" class="wp-calendar-table">
-	<caption>December 2024</caption>
+	<caption>January 2025</caption>
 	<thead>
 	<tr>
 		<th scope="col" title="Monday">M</th>
@@ -1098,27 +1095,24 @@
 	</thead>
 	<tbody>
 	<tr>
-		<td colspan="6" class="pad">&nbsp;</td><td>1</td>
+		<td colspan="2" class="pad">&nbsp;</td><td>1</td><td>2</td><td id="today">3</td><td>4</td><td>5</td>
 	</tr>
 	<tr>
-		<td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td>
+		<td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td>
 	</tr>
 	<tr>
-		<td>9</td><td>10</td><td><a href="/pink-bubble/archives/date/2024/12/11" aria-label="Posts published on December 11, 2024">11</a></td><td>12</td><td><a href="/pink-bubble/archives/date/2024/12/13" aria-label="Posts published on December 13, 2024">13</a></td><td>14</td><td>15</td>
+		<td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td>
 	</tr>
 	<tr>
-		<td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td>
+		<td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td>
 	</tr>
 	<tr>
-		<td>23</td><td>24</td><td>25</td><td>26</td><td id="today">27</td><td>28</td><td>29</td>
-	</tr>
-	<tr>
-		<td>30</td><td>31</td>
-		<td class="pad" colspan="5">&nbsp;</td>
+		<td>27</td><td>28</td><td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="2">&nbsp;</td>
 	</tr>
 	</tbody>
 	</table><nav aria-label="Previous and next months" class="wp-calendar-nav">
-		<span class="wp-calendar-nav-prev"><a href="/pink-bubble/archives/date/2023/01">&laquo; Jan</a></span>
+		<span class="wp-calendar-nav-prev"><a href="/pink-bubble/date/2024/12">&laquo; Dec</a></span>
 		<span class="pad">&nbsp;</span>
 		<span class="wp-calendar-nav-next">&nbsp;</span>
 	</nav></div>
@@ -1127,143 +1121,143 @@
 <p>Categories list:</p>
 
 
-<ul class="wp-block-categories-list wp-block-categories">	<li class="cat-item cat-item-12"><a href="/pink-bubble/archives/category/6-1">6.1</a>
+<ul class="wp-block-categories-list wp-block-categories">	<li class="cat-item cat-item-12"><a href="/pink-bubble/category/6-1">6.1</a>
 </li>
-	<li class="cat-item cat-item-13"><a href="/pink-bubble/archives/category/aciform">aciform</a>
+	<li class="cat-item cat-item-13"><a href="/pink-bubble/category/aciform">aciform</a>
 </li>
-	<li class="cat-item cat-item-14"><a href="/pink-bubble/archives/category/antiquarianism">antiquarianism</a>
+	<li class="cat-item cat-item-14"><a href="/pink-bubble/category/antiquarianism">antiquarianism</a>
 </li>
-	<li class="cat-item cat-item-15"><a href="/pink-bubble/archives/category/arrangement">arrangement</a>
+	<li class="cat-item cat-item-15"><a href="/pink-bubble/category/arrangement">arrangement</a>
 </li>
-	<li class="cat-item cat-item-16"><a href="/pink-bubble/archives/category/asmodeus">asmodeus</a>
+	<li class="cat-item cat-item-16"><a href="/pink-bubble/category/asmodeus">asmodeus</a>
 </li>
-	<li class="cat-item cat-item-17"><a href="/pink-bubble/archives/category/block">Block</a>
+	<li class="cat-item cat-item-17"><a href="/pink-bubble/category/block">Block</a>
 </li>
-	<li class="cat-item cat-item-19"><a href="/pink-bubble/archives/category/broder">broder</a>
+	<li class="cat-item cat-item-19"><a href="/pink-bubble/category/broder">broder</a>
 </li>
-	<li class="cat-item cat-item-20"><a href="/pink-bubble/archives/category/buying">buying</a>
+	<li class="cat-item cat-item-20"><a href="/pink-bubble/category/buying">buying</a>
 </li>
-	<li class="cat-item cat-item-21"><a href="/pink-bubble/archives/category/cat-a">Cat A</a>
+	<li class="cat-item cat-item-21"><a href="/pink-bubble/category/cat-a">Cat A</a>
 </li>
-	<li class="cat-item cat-item-4"><a href="/pink-bubble/archives/category/cat-aa">cat aa</a>
+	<li class="cat-item cat-item-4"><a href="/pink-bubble/category/cat-aa">cat aa</a>
 </li>
-	<li class="cat-item cat-item-22"><a href="/pink-bubble/archives/category/cat-b">Cat B</a>
+	<li class="cat-item cat-item-22"><a href="/pink-bubble/category/cat-b">Cat B</a>
 </li>
-	<li class="cat-item cat-item-23"><a href="/pink-bubble/archives/category/cat-c">Cat C</a>
+	<li class="cat-item cat-item-23"><a href="/pink-bubble/category/cat-c">Cat C</a>
 </li>
-	<li class="cat-item cat-item-6"><a href="/pink-bubble/archives/category/cat-cc">cat cc</a>
+	<li class="cat-item cat-item-6"><a href="/pink-bubble/category/cat-cc">cat cc</a>
 </li>
-	<li class="cat-item cat-item-24"><a href="/pink-bubble/archives/category/championship">championship</a>
+	<li class="cat-item cat-item-24"><a href="/pink-bubble/category/championship">championship</a>
 </li>
-	<li class="cat-item cat-item-25"><a href="/pink-bubble/archives/category/chastening">chastening</a>
+	<li class="cat-item cat-item-25"><a href="/pink-bubble/category/chastening">chastening</a>
 </li>
-	<li class="cat-item cat-item-70"><a href="/pink-bubble/archives/category/parent/child-1">Child 1</a>
+	<li class="cat-item cat-item-70"><a href="/pink-bubble/category/parent/child-1">Child 1</a>
 </li>
-	<li class="cat-item cat-item-71"><a href="/pink-bubble/archives/category/parent/child-1/child-2">Child 2</a>
+	<li class="cat-item cat-item-71"><a href="/pink-bubble/category/parent/child-1/child-2">Child 2</a>
 </li>
-	<li class="cat-item cat-item-72"><a href="/pink-bubble/archives/category/parent-category/child-category-01">Child Category 01</a>
+	<li class="cat-item cat-item-72"><a href="/pink-bubble/category/parent-category/child-category-01">Child Category 01</a>
 </li>
-	<li class="cat-item cat-item-73"><a href="/pink-bubble/archives/category/parent-category/child-category-02">Child Category 02</a>
+	<li class="cat-item cat-item-73"><a href="/pink-bubble/category/parent-category/child-category-02">Child Category 02</a>
 </li>
-	<li class="cat-item cat-item-74"><a href="/pink-bubble/archives/category/parent-category/child-category-03">Child Category 03</a>
+	<li class="cat-item cat-item-74"><a href="/pink-bubble/category/parent-category/child-category-03">Child Category 03</a>
 </li>
-	<li class="cat-item cat-item-75"><a href="/pink-bubble/archives/category/parent-category/child-category-04">Child Category 04</a>
+	<li class="cat-item cat-item-75"><a href="/pink-bubble/category/parent-category/child-category-04">Child Category 04</a>
 </li>
-	<li class="cat-item cat-item-76"><a href="/pink-bubble/archives/category/parent-category/child-category-05">Child Category 05</a>
+	<li class="cat-item cat-item-76"><a href="/pink-bubble/category/parent-category/child-category-05">Child Category 05</a>
 </li>
-	<li class="cat-item cat-item-26"><a href="/pink-bubble/archives/category/classic">Classic</a>
+	<li class="cat-item cat-item-26"><a href="/pink-bubble/category/classic">Classic</a>
 </li>
-	<li class="cat-item cat-item-27"><a href="/pink-bubble/archives/category/clerkship">clerkship</a>
+	<li class="cat-item cat-item-27"><a href="/pink-bubble/category/clerkship">clerkship</a>
 </li>
-	<li class="cat-item cat-item-28"><a href="/pink-bubble/archives/category/disinclination">disinclination</a>
+	<li class="cat-item cat-item-28"><a href="/pink-bubble/category/disinclination">disinclination</a>
 </li>
-	<li class="cat-item cat-item-29"><a href="/pink-bubble/archives/category/disinfection">disinfection</a>
+	<li class="cat-item cat-item-29"><a href="/pink-bubble/category/disinfection">disinfection</a>
 </li>
-	<li class="cat-item cat-item-30"><a href="/pink-bubble/archives/category/dispatch">dispatch</a>
+	<li class="cat-item cat-item-30"><a href="/pink-bubble/category/dispatch">dispatch</a>
 </li>
-	<li class="cat-item cat-item-31"><a href="/pink-bubble/archives/category/echappee">echappee</a>
+	<li class="cat-item cat-item-31"><a href="/pink-bubble/category/echappee">echappee</a>
 </li>
-	<li class="cat-item cat-item-32"><a href="/pink-bubble/archives/category/edge-case-2">Edge Case</a>
+	<li class="cat-item cat-item-32"><a href="/pink-bubble/category/edge-case-2">Edge Case</a>
 </li>
-	<li class="cat-item cat-item-33"><a href="/pink-bubble/archives/category/enphagy">enphagy</a>
+	<li class="cat-item cat-item-33"><a href="/pink-bubble/category/enphagy">enphagy</a>
 </li>
-	<li class="cat-item cat-item-34"><a href="/pink-bubble/archives/category/equipollent">equipollent</a>
+	<li class="cat-item cat-item-34"><a href="/pink-bubble/category/equipollent">equipollent</a>
 </li>
-	<li class="cat-item cat-item-35"><a href="/pink-bubble/archives/category/fatuity">fatuity</a>
+	<li class="cat-item cat-item-35"><a href="/pink-bubble/category/fatuity">fatuity</a>
 </li>
-	<li class="cat-item cat-item-36"><a href="/pink-bubble/archives/category/foo-a">Foo A</a>
+	<li class="cat-item cat-item-36"><a href="/pink-bubble/category/foo-a">Foo A</a>
 </li>
-	<li class="cat-item cat-item-77"><a href="/pink-bubble/archives/category/foo-parent/foo-a-foo-parent">Foo A</a>
+	<li class="cat-item cat-item-77"><a href="/pink-bubble/category/foo-parent/foo-a-foo-parent">Foo A</a>
 </li>
-	<li class="cat-item cat-item-37"><a href="/pink-bubble/archives/category/foo-parent">Foo Parent</a>
+	<li class="cat-item cat-item-37"><a href="/pink-bubble/category/foo-parent">Foo Parent</a>
 </li>
-	<li class="cat-item cat-item-38"><a href="/pink-bubble/archives/category/gaberlunzie">gaberlunzie</a>
+	<li class="cat-item cat-item-38"><a href="/pink-bubble/category/gaberlunzie">gaberlunzie</a>
 </li>
-	<li class="cat-item cat-item-78"><a href="/pink-bubble/archives/category/parent-category/child-category-03/grandchild-category">Grandchild Category</a>
+	<li class="cat-item cat-item-78"><a href="/pink-bubble/category/parent-category/child-category-03/grandchild-category">Grandchild Category</a>
 </li>
-	<li class="cat-item cat-item-39"><a href="/pink-bubble/archives/category/illtempered">illtempered</a>
+	<li class="cat-item cat-item-39"><a href="/pink-bubble/category/illtempered">illtempered</a>
 </li>
-	<li class="cat-item cat-item-40"><a href="/pink-bubble/archives/category/insubordination">insubordination</a>
+	<li class="cat-item cat-item-40"><a href="/pink-bubble/category/insubordination">insubordination</a>
 </li>
-	<li class="cat-item cat-item-41"><a href="/pink-bubble/archives/category/lender">lender</a>
+	<li class="cat-item cat-item-41"><a href="/pink-bubble/category/lender">lender</a>
 </li>
-	<li class="cat-item cat-item-42"><a href="/pink-bubble/archives/category/markup">Markup</a>
+	<li class="cat-item cat-item-42"><a href="/pink-bubble/category/markup">Markup</a>
 </li>
-	<li class="cat-item cat-item-43"><a href="/pink-bubble/archives/category/media-2">Media</a>
+	<li class="cat-item cat-item-43"><a href="/pink-bubble/category/media-2">Media</a>
 </li>
-	<li class="cat-item cat-item-44"><a href="/pink-bubble/archives/category/monosyllable">monosyllable</a>
+	<li class="cat-item cat-item-44"><a href="/pink-bubble/category/monosyllable">monosyllable</a>
 </li>
-	<li class="cat-item cat-item-45"><a href="/pink-bubble/archives/category/packthread">packthread</a>
+	<li class="cat-item cat-item-45"><a href="/pink-bubble/category/packthread">packthread</a>
 </li>
-	<li class="cat-item cat-item-46"><a href="/pink-bubble/archives/category/palter">palter</a>
+	<li class="cat-item cat-item-46"><a href="/pink-bubble/category/palter">palter</a>
 </li>
-	<li class="cat-item cat-item-47"><a href="/pink-bubble/archives/category/papilionaceous">papilionaceous</a>
+	<li class="cat-item cat-item-47"><a href="/pink-bubble/category/papilionaceous">papilionaceous</a>
 </li>
-	<li class="cat-item cat-item-48"><a href="/pink-bubble/archives/category/parent">Parent</a>
+	<li class="cat-item cat-item-48"><a href="/pink-bubble/category/parent">Parent</a>
 </li>
-	<li class="cat-item cat-item-49"><a href="/pink-bubble/archives/category/parent-category">Parent Category</a>
+	<li class="cat-item cat-item-49"><a href="/pink-bubble/category/parent-category">Parent Category</a>
 </li>
-	<li class="cat-item cat-item-50"><a href="/pink-bubble/archives/category/personable">personable</a>
+	<li class="cat-item cat-item-50"><a href="/pink-bubble/category/personable">personable</a>
 </li>
-	<li class="cat-item cat-item-51"><a href="/pink-bubble/archives/category/post-formats">Post Formats</a>
+	<li class="cat-item cat-item-51"><a href="/pink-bubble/category/post-formats">Post Formats</a>
 </li>
-	<li class="cat-item cat-item-52"><a href="/pink-bubble/archives/category/propylaeum">propylaeum</a>
+	<li class="cat-item cat-item-52"><a href="/pink-bubble/category/propylaeum">propylaeum</a>
 </li>
-	<li class="cat-item cat-item-53"><a href="/pink-bubble/archives/category/pustule">pustule</a>
+	<li class="cat-item cat-item-53"><a href="/pink-bubble/category/pustule">pustule</a>
 </li>
-	<li class="cat-item cat-item-54"><a href="/pink-bubble/archives/category/quartern">quartern</a>
+	<li class="cat-item cat-item-54"><a href="/pink-bubble/category/quartern">quartern</a>
 </li>
-	<li class="cat-item cat-item-55"><a href="/pink-bubble/archives/category/scholarship">scholarship</a>
+	<li class="cat-item cat-item-55"><a href="/pink-bubble/category/scholarship">scholarship</a>
 </li>
-	<li class="cat-item cat-item-56"><a href="/pink-bubble/archives/category/selfconvicted">selfconvicted</a>
+	<li class="cat-item cat-item-56"><a href="/pink-bubble/category/selfconvicted">selfconvicted</a>
 </li>
-	<li class="cat-item cat-item-57"><a href="/pink-bubble/archives/category/showshoe">showshoe</a>
+	<li class="cat-item cat-item-57"><a href="/pink-bubble/category/showshoe">showshoe</a>
 </li>
-	<li class="cat-item cat-item-58"><a href="/pink-bubble/archives/category/sloyd">sloyd</a>
+	<li class="cat-item cat-item-58"><a href="/pink-bubble/category/sloyd">sloyd</a>
 </li>
-	<li class="cat-item cat-item-59"><a href="/pink-bubble/archives/category/aciform/sub">sub</a>
+	<li class="cat-item cat-item-59"><a href="/pink-bubble/category/aciform/sub">sub</a>
 </li>
-	<li class="cat-item cat-item-60"><a href="/pink-bubble/archives/category/sublunary">sublunary</a>
+	<li class="cat-item cat-item-60"><a href="/pink-bubble/category/sublunary">sublunary</a>
 </li>
-	<li class="cat-item cat-item-61"><a href="/pink-bubble/archives/category/tamtam">tamtam</a>
+	<li class="cat-item cat-item-61"><a href="/pink-bubble/category/tamtam">tamtam</a>
 </li>
-	<li class="cat-item cat-item-62"><a href="/pink-bubble/archives/category/template-2">Template</a>
+	<li class="cat-item cat-item-62"><a href="/pink-bubble/category/template-2">Template</a>
 </li>
-	<li class="cat-item cat-item-1"><a href="/pink-bubble/archives/category/uncategorized">Uncategorized</a>
+	<li class="cat-item cat-item-1"><a href="/pink-bubble/category/uncategorized">Uncategorized</a>
 </li>
-	<li class="cat-item cat-item-63"><a href="/pink-bubble/archives/category/unpublished">Unpublished</a>
+	<li class="cat-item cat-item-63"><a href="/pink-bubble/category/unpublished">Unpublished</a>
 </li>
-	<li class="cat-item cat-item-64"><a href="/pink-bubble/archives/category/weakhearted">weakhearted</a>
+	<li class="cat-item cat-item-64"><a href="/pink-bubble/category/weakhearted">weakhearted</a>
 </li>
-	<li class="cat-item cat-item-65"><a href="/pink-bubble/archives/category/ween">ween</a>
+	<li class="cat-item cat-item-65"><a href="/pink-bubble/category/ween">ween</a>
 </li>
-	<li class="cat-item cat-item-66"><a href="/pink-bubble/archives/category/wellhead">wellhead</a>
+	<li class="cat-item cat-item-66"><a href="/pink-bubble/category/wellhead">wellhead</a>
 </li>
-	<li class="cat-item cat-item-67"><a href="/pink-bubble/archives/category/wellintentioned">wellintentioned</a>
+	<li class="cat-item cat-item-67"><a href="/pink-bubble/category/wellintentioned">wellintentioned</a>
 </li>
-	<li class="cat-item cat-item-68"><a href="/pink-bubble/archives/category/whetstone">whetstone</a>
+	<li class="cat-item cat-item-68"><a href="/pink-bubble/category/whetstone">whetstone</a>
 </li>
-	<li class="cat-item cat-item-69"><a href="/pink-bubble/archives/category/years">years</a>
+	<li class="cat-item cat-item-69"><a href="/pink-bubble/category/years">years</a>
 </li>
 </ul>
 
@@ -1279,22 +1273,22 @@
 <p>Latest comments:</p>
 
 
-<ol class="has-avatars has-dates has-excerpts wp-block-latest-comments"><li class="wp-block-latest-comments__comment"><img alt='' src='https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=48&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-48 photo wp-block-latest-comments__comment-avatar' height='48' width='48' /><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="https://wordpress.org/">A WordPress Commenter</a> on <a class="wp-block-latest-comments__comment-link" href="/pink-bubble/archives/1#comment-1">Page 0: Hello world!</a><time datetime="2024-12-11T02:29:14+00:00" class="wp-block-latest-comments__comment-date">December 11, 2024</time></footer><div class="wp-block-latest-comments__comment-excerpt"><p>Hi, this is a comment. To get started with moderating, editing, and deleting comments, please visit the Comments screen in&hellip;</p>
-</div></article></li><li class="wp-block-latest-comments__comment"><img alt='' src='https://secure.gravatar.com/avatar/4fdb3b572ac7dd8d7a58ba70317efa14?s=48&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4fdb3b572ac7dd8d7a58ba70317efa14?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-48 photo wp-block-latest-comments__comment-avatar' height='48' width='48' /><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="https://wpthemetestdata.wordpress.com/">themedemos</a> on <a class="wp-block-latest-comments__comment-link" href="/pink-bubble/archives/164#comment-2">WP 6.1 Theme block category</a><time datetime="2023-01-16T07:17:56+00:00" class="wp-block-latest-comments__comment-date">January 16, 2023</time></footer><div class="wp-block-latest-comments__comment-excerpt"><p>This test post needs a comment.</p>
-</div></article></li><li class="wp-block-latest-comments__comment"><img alt='' src='https://secure.gravatar.com/avatar/f72c502e0d657f363b5f2dc79dd8ceea?s=48&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/f72c502e0d657f363b5f2dc79dd8ceea?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-48 photo wp-block-latest-comments__comment-avatar' height='48' width='48' /><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="http://example.org/">John Doe</a> on <a class="wp-block-latest-comments__comment-link" href="/pink-bubble/archives/1170#comment-34">Edge Case: No Content</a><time datetime="2013-03-14T12:35:07+00:00" class="wp-block-latest-comments__comment-date">March 14, 2013</time></footer><div class="wp-block-latest-comments__comment-excerpt"><p>Having no content in the post should have no adverse effects on the layout or functionality.</p>
-</div></article></li><li class="wp-block-latest-comments__comment"><img alt='' src='https://secure.gravatar.com/avatar/f72c502e0d657f363b5f2dc79dd8ceea?s=48&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/f72c502e0d657f363b5f2dc79dd8ceea?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-48 photo wp-block-latest-comments__comment-avatar' height='48' width='48' /><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="http://example.org/">Jane Doe</a> on <a class="wp-block-latest-comments__comment-link" href="/pink-bubble/archives/1168#comment-33">Protected: Template: Password Protected (the password is &#8220;enter&#8221;)</a><time datetime="2013-03-14T11:56:08+00:00" class="wp-block-latest-comments__comment-date">March 14, 2013</time></footer><div class="wp-block-latest-comments__comment-excerpt"><p>Password protected</p>
-</div></article></li><li class="wp-block-latest-comments__comment"><img alt='' src='https://secure.gravatar.com/avatar/f72c502e0d657f363b5f2dc79dd8ceea?s=48&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/f72c502e0d657f363b5f2dc79dd8ceea?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-48 photo wp-block-latest-comments__comment-avatar' height='48' width='48' /><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="http://example.org/">Jane Doe</a> on <a class="wp-block-latest-comments__comment-link" href="/pink-bubble/archives/1148#comment-26">Template: Comments</a><time datetime="2013-03-14T11:30:33+00:00" class="wp-block-latest-comments__comment-date">March 14, 2013</time></footer><div class="wp-block-latest-comments__comment-excerpt"><p>Thanks for all the comments, everyone!</p>
+<ol class="has-avatars has-dates has-excerpts wp-block-latest-comments"><li class="wp-block-latest-comments__comment"><img alt='' src='https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=48&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-48 photo wp-block-latest-comments__comment-avatar' height='48' width='48' /><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="https://wordpress.org/">A WordPress Commenter</a> on <a class="wp-block-latest-comments__comment-link" href="/pink-bubble/uncategorized/1.html#comment-1">Page 0: Hello world!</a><time datetime="2024-12-11T02:29:14+00:00" class="wp-block-latest-comments__comment-date">December 11, 2024</time></footer><div class="wp-block-latest-comments__comment-excerpt"><p>Hi, this is a comment. To get started with moderating, editing, and deleting comments, please visit the Comments screen in&hellip;</p>
+</div></article></li><li class="wp-block-latest-comments__comment"><img alt='' src='https://secure.gravatar.com/avatar/4fdb3b572ac7dd8d7a58ba70317efa14?s=48&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4fdb3b572ac7dd8d7a58ba70317efa14?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-48 photo wp-block-latest-comments__comment-avatar' height='48' width='48' /><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="https://wpthemetestdata.wordpress.com/">themedemos</a> on <a class="wp-block-latest-comments__comment-link" href="/pink-bubble/6-1/164.html#comment-2">WP 6.1 Theme block category</a><time datetime="2023-01-16T07:17:56+00:00" class="wp-block-latest-comments__comment-date">January 16, 2023</time></footer><div class="wp-block-latest-comments__comment-excerpt"><p>This test post needs a comment.</p>
+</div></article></li><li class="wp-block-latest-comments__comment"><img alt='' src='https://secure.gravatar.com/avatar/f72c502e0d657f363b5f2dc79dd8ceea?s=48&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/f72c502e0d657f363b5f2dc79dd8ceea?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-48 photo wp-block-latest-comments__comment-avatar' height='48' width='48' /><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="http://example.org/">John Doe</a> on <a class="wp-block-latest-comments__comment-link" href="/pink-bubble/classic/1170.html#comment-34">Edge Case: No Content</a><time datetime="2013-03-14T12:35:07+00:00" class="wp-block-latest-comments__comment-date">March 14, 2013</time></footer><div class="wp-block-latest-comments__comment-excerpt"><p>Having no content in the post should have no adverse effects on the layout or functionality.</p>
+</div></article></li><li class="wp-block-latest-comments__comment"><img alt='' src='https://secure.gravatar.com/avatar/f72c502e0d657f363b5f2dc79dd8ceea?s=48&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/f72c502e0d657f363b5f2dc79dd8ceea?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-48 photo wp-block-latest-comments__comment-avatar' height='48' width='48' /><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="http://example.org/">Jane Doe</a> on <a class="wp-block-latest-comments__comment-link" href="/pink-bubble/uncategorized/1168.html#comment-33">Protected: Template: Password Protected (the password is &#8220;enter&#8221;)</a><time datetime="2013-03-14T11:56:08+00:00" class="wp-block-latest-comments__comment-date">March 14, 2013</time></footer><div class="wp-block-latest-comments__comment-excerpt"><p>Password protected</p>
+</div></article></li><li class="wp-block-latest-comments__comment"><img alt='' src='https://secure.gravatar.com/avatar/f72c502e0d657f363b5f2dc79dd8ceea?s=48&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/f72c502e0d657f363b5f2dc79dd8ceea?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-48 photo wp-block-latest-comments__comment-avatar' height='48' width='48' /><article><footer class="wp-block-latest-comments__comment-meta"><a class="wp-block-latest-comments__comment-author" href="http://example.org/">Jane Doe</a> on <a class="wp-block-latest-comments__comment-link" href="/pink-bubble/uncategorized/1148.html#comment-26">Template: Comments</a><time datetime="2013-03-14T11:30:33+00:00" class="wp-block-latest-comments__comment-date">March 14, 2013</time></footer><div class="wp-block-latest-comments__comment-excerpt"><p>Thanks for all the comments, everyone!</p>
 </div></article></li></ol>
 
 
 <p>Latest posts:</p>
 
 
-<ul class="wp-block-latest-posts__list wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="/pink-bubble/archives/33">Page 4: calendar</a></li>
-<li><a class="wp-block-latest-posts__post-title" href="/pink-bubble/archives/24">Post 2: xxx</a></li>
-<li><a class="wp-block-latest-posts__post-title" href="/pink-bubble/archives/22">Post 1: gogogo</a></li>
-<li><a class="wp-block-latest-posts__post-title" href="/pink-bubble/archives/1">Page 0: Hello world!</a></li>
-<li><a class="wp-block-latest-posts__post-title" href="/pink-bubble/archives/163">WP 6.1 Font size scale</a></li>
+<ul class="wp-block-latest-posts__list wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="/pink-bubble/cat-aa/33.html">Page 4: calendar</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="/pink-bubble/uncategorized/24.html">Post 2: xxx</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="/pink-bubble/uncategorized/22.html">Post 1: gogogo</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="/pink-bubble/uncategorized/1.html">Page 0: Hello world!</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="/pink-bubble/6-1/163.html">WP 6.1 Font size scale</a></li>
 </ul>
 
 
@@ -1307,7 +1301,7 @@
 <p>RSS block:</p>
 
 
-<ul class="wp-block-rss"><li class='wp-block-rss__item'><div class='wp-block-rss__item-title'><a href='https://wordpress.org/news/2024/12/holiday-break/'>Holiday Break</a></div></li><li class='wp-block-rss__item'><div class='wp-block-rss__item-title'><a href='https://wordpress.org/news/2024/12/state-of-the-word-2024-legacy-innovation-and-community/'>State of the Word 2024: Legacy, Innovation, and Community</a></div></li><li class='wp-block-rss__item'><div class='wp-block-rss__item-title'><a href='https://wordpress.org/news/2024/12/write-books-with-the-block-editor/'>Write Books With the Block Editor</a></div></li><li class='wp-block-rss__item'><div class='wp-block-rss__item-title'><a href='https://wordpress.org/news/2024/12/openverse-org-a-sight-for-sore-eyes/'>Openverse.org: A Sight for Sore Eyes</a></div></li><li class='wp-block-rss__item'><div class='wp-block-rss__item-title'><a href='https://wordpress.org/news/2024/11/wordpress-6-7-1-maintenance-release/'>WordPress 6.7.1 Maintenance Release</a></div></li></ul>
+<ul class="wp-block-rss"><li class='wp-block-rss__item'><div class='wp-block-rss__item-title'><a href='https://wordpress.org/news/2025/01/wordpress-themes-need-more-weird-a-call-for-creative-digital-homes/'>WordPress Themes Need More Weird: A Call for Creative Digital Homes</a></div></li><li class='wp-block-rss__item'><div class='wp-block-rss__item-title'><a href='https://wordpress.org/news/2024/12/holiday-break/'>Holiday Break</a></div></li><li class='wp-block-rss__item'><div class='wp-block-rss__item-title'><a href='https://wordpress.org/news/2024/12/state-of-the-word-2024-legacy-innovation-and-community/'>State of the Word 2024: Legacy, Innovation, and Community</a></div></li><li class='wp-block-rss__item'><div class='wp-block-rss__item-title'><a href='https://wordpress.org/news/2024/12/write-books-with-the-block-editor/'>Write Books With the Block Editor</a></div></li><li class='wp-block-rss__item'><div class='wp-block-rss__item-title'><a href='https://wordpress.org/news/2024/12/openverse-org-a-sight-for-sore-eyes/'>Openverse.org: A Sight for Sore Eyes</a></div></li></ul>
 
 <form role="search" method="get" action="/pink-bubble/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"    ><label class="wp-block-search__label" for="wp-block-search__input-2" >Search</label><div class="wp-block-search__inside-wrapper " ><input class="wp-block-search__input" id="wp-block-search__input-2" placeholder="" value="" type="search" name="s" required /><button aria-label="Search" class="wp-block-search__button wp-element-button" type="submit" >Search</button></div></form>
 
@@ -1355,65 +1349,65 @@
 <p>Tag cloud:</p>
 
 
-<p class="wp-block-tag-cloud"><a href="/pink-bubble/archives/tag/alignment-2" class="tag-cloud-link tag-link-80 tag-link-position-1" style="font-size: 12.666666666667pt;" aria-label="alignment (3 items)">alignment</a>
-<a href="/pink-bubble/archives/tag/aside" class="tag-cloud-link tag-link-82 tag-link-position-2" style="font-size: 8pt;" aria-label="aside (1 item)">aside</a>
-<a href="/pink-bubble/archives/tag/audio" class="tag-cloud-link tag-link-83 tag-link-position-3" style="font-size: 8pt;" aria-label="audio (1 item)">audio</a>
-<a href="/pink-bubble/archives/tag/captions-2" class="tag-cloud-link tag-link-84 tag-link-position-4" style="font-size: 10.8pt;" aria-label="captions (2 items)">captions</a>
-<a href="/pink-bubble/archives/tag/categories" class="tag-cloud-link tag-link-85 tag-link-position-5" style="font-size: 10.8pt;" aria-label="categories (2 items)">categories</a>
-<a href="/pink-bubble/archives/tag/chat" class="tag-cloud-link tag-link-86 tag-link-position-6" style="font-size: 10.8pt;" aria-label="chat (2 items)">chat</a>
-<a href="/pink-bubble/archives/tag/codex" class="tag-cloud-link tag-link-90 tag-link-position-7" style="font-size: 14.222222222222pt;" aria-label="Codex (4 items)">Codex</a>
-<a href="/pink-bubble/archives/tag/columns" class="tag-cloud-link tag-link-207 tag-link-position-8" style="font-size: 10.8pt;" aria-label="Columns (2 items)">Columns</a>
-<a href="/pink-bubble/archives/tag/comments-2" class="tag-cloud-link tag-link-91 tag-link-position-9" style="font-size: 14.222222222222pt;" aria-label="comments (4 items)">comments</a>
-<a href="/pink-bubble/archives/tag/content-2" class="tag-cloud-link tag-link-92 tag-link-position-10" style="font-size: 20.6pt;" aria-label="content περιεχόμενο (12 items)">content περιεχόμενο</a>
-<a href="/pink-bubble/archives/tag/content" class="tag-cloud-link tag-link-206 tag-link-position-11" style="font-size: 19.511111111111pt;" aria-label="content περιεχόμενο (10 items)">content περιεχόμενο</a>
-<a href="/pink-bubble/archives/tag/css" class="tag-cloud-link tag-link-94 tag-link-position-12" style="font-size: 17.333333333333pt;" aria-label="css (7 items)">css</a>
-<a href="/pink-bubble/archives/tag/dowork" class="tag-cloud-link tag-link-98 tag-link-position-13" style="font-size: 8pt;" aria-label="dowork (1 item)">dowork</a>
-<a href="/pink-bubble/archives/tag/edge-case" class="tag-cloud-link tag-link-99 tag-link-position-14" style="font-size: 18.111111111111pt;" aria-label="edge case (8 items)">edge case</a>
-<a href="/pink-bubble/archives/tag/embeds-2" class="tag-cloud-link tag-link-100 tag-link-position-15" style="font-size: 15.466666666667pt;" aria-label="embeds (5 items)">embeds</a>
-<a href="/pink-bubble/archives/tag/excerpt-2" class="tag-cloud-link tag-link-104 tag-link-position-16" style="font-size: 12.666666666667pt;" aria-label="excerpt (3 items)">excerpt</a>
-<a href="/pink-bubble/archives/tag/featured-image" class="tag-cloud-link tag-link-106 tag-link-position-17" style="font-size: 12.666666666667pt;" aria-label="featured image (3 items)">featured image</a>
-<a href="/pink-bubble/archives/tag/formatting-2" class="tag-cloud-link tag-link-109 tag-link-position-18" style="font-size: 10.8pt;" aria-label="formatting (2 items)">formatting</a>
-<a href="/pink-bubble/archives/tag/gallery" class="tag-cloud-link tag-link-112 tag-link-position-19" style="font-size: 15.466666666667pt;" aria-label="gallery (5 items)">gallery</a>
-<a href="/pink-bubble/archives/tag/html" class="tag-cloud-link tag-link-118 tag-link-position-20" style="font-size: 15.466666666667pt;" aria-label="html (5 items)">html</a>
-<a href="/pink-bubble/archives/tag/image" class="tag-cloud-link tag-link-119 tag-link-position-21" style="font-size: 20.133333333333pt;" aria-label="image (11 items)">image</a>
-<a href="/pink-bubble/archives/tag/jetpack-2" class="tag-cloud-link tag-link-122 tag-link-position-22" style="font-size: 10.8pt;" aria-label="jetpack (2 items)">jetpack</a>
-<a href="/pink-bubble/archives/tag/layout" class="tag-cloud-link tag-link-124 tag-link-position-23" style="font-size: 14.222222222222pt;" aria-label="layout (4 items)">layout</a>
-<a href="/pink-bubble/archives/tag/link" class="tag-cloud-link tag-link-125 tag-link-position-24" style="font-size: 10.8pt;" aria-label="link (2 items)">link</a>
-<a href="/pink-bubble/archives/tag/markup-2" class="tag-cloud-link tag-link-129 tag-link-position-25" style="font-size: 16.555555555556pt;" aria-label="markup (6 items)">markup</a>
-<a href="/pink-bubble/archives/tag/post-formats" class="tag-cloud-link tag-link-147 tag-link-position-26" style="font-size: 22pt;" aria-label="Post Formats (15 items)">Post Formats</a>
-<a href="/pink-bubble/archives/tag/quote" class="tag-cloud-link tag-link-153 tag-link-position-27" style="font-size: 10.8pt;" aria-label="quote (2 items)">quote</a>
-<a href="/pink-bubble/archives/tag/sample" class="tag-cloud-link tag-link-195 tag-link-position-28" style="font-size: 8pt;" aria-label="Sample (1 item)">Sample</a>
-<a href="/pink-bubble/archives/tag/shortcode" class="tag-cloud-link tag-link-159 tag-link-position-29" style="font-size: 15.466666666667pt;" aria-label="shortcode (5 items)">shortcode</a>
-<a href="/pink-bubble/archives/tag/standard-2" class="tag-cloud-link tag-link-161 tag-link-position-30" style="font-size: 10.8pt;" aria-label="standard (2 items)">standard</a>
-<a href="/pink-bubble/archives/tag/status" class="tag-cloud-link tag-link-162 tag-link-position-31" style="font-size: 8pt;" aria-label="status (1 item)">status</a>
-<a href="/pink-bubble/archives/tag/success" class="tag-cloud-link tag-link-164 tag-link-position-32" style="font-size: 8pt;" aria-label="Success (1 item)">Success</a>
-<a href="/pink-bubble/archives/tag/swagger" class="tag-cloud-link tag-link-165 tag-link-position-33" style="font-size: 8pt;" aria-label="Swagger (1 item)">Swagger</a>
-<a href="/pink-bubble/archives/tag/tags" class="tag-cloud-link tag-link-172 tag-link-position-34" style="font-size: 10.8pt;" aria-label="Tags (2 items)">Tags</a>
-<a href="/pink-bubble/archives/tag/template" class="tag-cloud-link tag-link-173 tag-link-position-35" style="font-size: 20.6pt;" aria-label="template (12 items)">template</a>
-<a href="/pink-bubble/archives/tag/test-tag" class="tag-cloud-link tag-link-196 tag-link-position-36" style="font-size: 8pt;" aria-label="test tag (1 item)">test tag</a>
-<a href="/pink-bubble/archives/tag/tiled" class="tag-cloud-link tag-link-177 tag-link-position-37" style="font-size: 8pt;" aria-label="tiled (1 item)">tiled</a>
-<a href="/pink-bubble/archives/tag/title" class="tag-cloud-link tag-link-178 tag-link-position-38" style="font-size: 15.466666666667pt;" aria-label="title (5 items)">title</a>
-<a href="/pink-bubble/archives/tag/trackbacks-2" class="tag-cloud-link tag-link-179 tag-link-position-39" style="font-size: 8pt;" aria-label="trackbacks (1 item)">trackbacks</a>
-<a href="/pink-bubble/archives/tag/twitter-2" class="tag-cloud-link tag-link-180 tag-link-position-40" style="font-size: 10.8pt;" aria-label="twitter (2 items)">twitter</a>
-<a href="/pink-bubble/archives/tag/unseen" class="tag-cloud-link tag-link-182 tag-link-position-41" style="font-size: 8pt;" aria-label="Unseen (1 item)">Unseen</a>
-<a href="/pink-bubble/archives/tag/video" class="tag-cloud-link tag-link-183 tag-link-position-42" style="font-size: 12.666666666667pt;" aria-label="video (3 items)">video</a>
-<a href="/pink-bubble/archives/tag/videopress" class="tag-cloud-link tag-link-184 tag-link-position-43" style="font-size: 8pt;" aria-label="videopress (1 item)">videopress</a>
-<a href="/pink-bubble/archives/tag/wordpress" class="tag-cloud-link tag-link-186 tag-link-position-44" style="font-size: 8pt;" aria-label="WordPress (1 item)">WordPress</a>
-<a href="/pink-bubble/archives/tag/wordpress-tv" class="tag-cloud-link tag-link-187 tag-link-position-45" style="font-size: 10.8pt;" aria-label="wordpress.tv (2 items)">wordpress.tv</a></p>
+<p class="wp-block-tag-cloud"><a href="/pink-bubble/tag/alignment-2" class="tag-cloud-link tag-link-80 tag-link-position-1" style="font-size: 12.666666666667pt;" aria-label="alignment (3 items)">alignment</a>
+<a href="/pink-bubble/tag/aside" class="tag-cloud-link tag-link-82 tag-link-position-2" style="font-size: 8pt;" aria-label="aside (1 item)">aside</a>
+<a href="/pink-bubble/tag/audio" class="tag-cloud-link tag-link-83 tag-link-position-3" style="font-size: 8pt;" aria-label="audio (1 item)">audio</a>
+<a href="/pink-bubble/tag/captions-2" class="tag-cloud-link tag-link-84 tag-link-position-4" style="font-size: 10.8pt;" aria-label="captions (2 items)">captions</a>
+<a href="/pink-bubble/tag/categories" class="tag-cloud-link tag-link-85 tag-link-position-5" style="font-size: 10.8pt;" aria-label="categories (2 items)">categories</a>
+<a href="/pink-bubble/tag/chat" class="tag-cloud-link tag-link-86 tag-link-position-6" style="font-size: 10.8pt;" aria-label="chat (2 items)">chat</a>
+<a href="/pink-bubble/tag/codex" class="tag-cloud-link tag-link-90 tag-link-position-7" style="font-size: 14.222222222222pt;" aria-label="Codex (4 items)">Codex</a>
+<a href="/pink-bubble/tag/columns" class="tag-cloud-link tag-link-207 tag-link-position-8" style="font-size: 10.8pt;" aria-label="Columns (2 items)">Columns</a>
+<a href="/pink-bubble/tag/comments-2" class="tag-cloud-link tag-link-91 tag-link-position-9" style="font-size: 14.222222222222pt;" aria-label="comments (4 items)">comments</a>
+<a href="/pink-bubble/tag/content-2" class="tag-cloud-link tag-link-92 tag-link-position-10" style="font-size: 20.6pt;" aria-label="content περιεχόμενο (12 items)">content περιεχόμενο</a>
+<a href="/pink-bubble/tag/content" class="tag-cloud-link tag-link-206 tag-link-position-11" style="font-size: 19.511111111111pt;" aria-label="content περιεχόμενο (10 items)">content περιεχόμενο</a>
+<a href="/pink-bubble/tag/css" class="tag-cloud-link tag-link-94 tag-link-position-12" style="font-size: 17.333333333333pt;" aria-label="css (7 items)">css</a>
+<a href="/pink-bubble/tag/dowork" class="tag-cloud-link tag-link-98 tag-link-position-13" style="font-size: 8pt;" aria-label="dowork (1 item)">dowork</a>
+<a href="/pink-bubble/tag/edge-case" class="tag-cloud-link tag-link-99 tag-link-position-14" style="font-size: 18.111111111111pt;" aria-label="edge case (8 items)">edge case</a>
+<a href="/pink-bubble/tag/embeds-2" class="tag-cloud-link tag-link-100 tag-link-position-15" style="font-size: 15.466666666667pt;" aria-label="embeds (5 items)">embeds</a>
+<a href="/pink-bubble/tag/excerpt-2" class="tag-cloud-link tag-link-104 tag-link-position-16" style="font-size: 12.666666666667pt;" aria-label="excerpt (3 items)">excerpt</a>
+<a href="/pink-bubble/tag/featured-image" class="tag-cloud-link tag-link-106 tag-link-position-17" style="font-size: 12.666666666667pt;" aria-label="featured image (3 items)">featured image</a>
+<a href="/pink-bubble/tag/formatting-2" class="tag-cloud-link tag-link-109 tag-link-position-18" style="font-size: 10.8pt;" aria-label="formatting (2 items)">formatting</a>
+<a href="/pink-bubble/tag/gallery" class="tag-cloud-link tag-link-112 tag-link-position-19" style="font-size: 15.466666666667pt;" aria-label="gallery (5 items)">gallery</a>
+<a href="/pink-bubble/tag/html" class="tag-cloud-link tag-link-118 tag-link-position-20" style="font-size: 15.466666666667pt;" aria-label="html (5 items)">html</a>
+<a href="/pink-bubble/tag/image" class="tag-cloud-link tag-link-119 tag-link-position-21" style="font-size: 20.133333333333pt;" aria-label="image (11 items)">image</a>
+<a href="/pink-bubble/tag/jetpack-2" class="tag-cloud-link tag-link-122 tag-link-position-22" style="font-size: 10.8pt;" aria-label="jetpack (2 items)">jetpack</a>
+<a href="/pink-bubble/tag/layout" class="tag-cloud-link tag-link-124 tag-link-position-23" style="font-size: 14.222222222222pt;" aria-label="layout (4 items)">layout</a>
+<a href="/pink-bubble/tag/link" class="tag-cloud-link tag-link-125 tag-link-position-24" style="font-size: 10.8pt;" aria-label="link (2 items)">link</a>
+<a href="/pink-bubble/tag/markup-2" class="tag-cloud-link tag-link-129 tag-link-position-25" style="font-size: 16.555555555556pt;" aria-label="markup (6 items)">markup</a>
+<a href="/pink-bubble/tag/post-formats" class="tag-cloud-link tag-link-147 tag-link-position-26" style="font-size: 22pt;" aria-label="Post Formats (15 items)">Post Formats</a>
+<a href="/pink-bubble/tag/quote" class="tag-cloud-link tag-link-153 tag-link-position-27" style="font-size: 10.8pt;" aria-label="quote (2 items)">quote</a>
+<a href="/pink-bubble/tag/sample" class="tag-cloud-link tag-link-195 tag-link-position-28" style="font-size: 8pt;" aria-label="Sample (1 item)">Sample</a>
+<a href="/pink-bubble/tag/shortcode" class="tag-cloud-link tag-link-159 tag-link-position-29" style="font-size: 15.466666666667pt;" aria-label="shortcode (5 items)">shortcode</a>
+<a href="/pink-bubble/tag/standard-2" class="tag-cloud-link tag-link-161 tag-link-position-30" style="font-size: 10.8pt;" aria-label="standard (2 items)">standard</a>
+<a href="/pink-bubble/tag/status" class="tag-cloud-link tag-link-162 tag-link-position-31" style="font-size: 8pt;" aria-label="status (1 item)">status</a>
+<a href="/pink-bubble/tag/success" class="tag-cloud-link tag-link-164 tag-link-position-32" style="font-size: 8pt;" aria-label="Success (1 item)">Success</a>
+<a href="/pink-bubble/tag/swagger" class="tag-cloud-link tag-link-165 tag-link-position-33" style="font-size: 8pt;" aria-label="Swagger (1 item)">Swagger</a>
+<a href="/pink-bubble/tag/tags" class="tag-cloud-link tag-link-172 tag-link-position-34" style="font-size: 10.8pt;" aria-label="Tags (2 items)">Tags</a>
+<a href="/pink-bubble/tag/template" class="tag-cloud-link tag-link-173 tag-link-position-35" style="font-size: 20.6pt;" aria-label="template (12 items)">template</a>
+<a href="/pink-bubble/tag/test-tag" class="tag-cloud-link tag-link-196 tag-link-position-36" style="font-size: 8pt;" aria-label="test tag (1 item)">test tag</a>
+<a href="/pink-bubble/tag/tiled" class="tag-cloud-link tag-link-177 tag-link-position-37" style="font-size: 8pt;" aria-label="tiled (1 item)">tiled</a>
+<a href="/pink-bubble/tag/title" class="tag-cloud-link tag-link-178 tag-link-position-38" style="font-size: 15.466666666667pt;" aria-label="title (5 items)">title</a>
+<a href="/pink-bubble/tag/trackbacks-2" class="tag-cloud-link tag-link-179 tag-link-position-39" style="font-size: 8pt;" aria-label="trackbacks (1 item)">trackbacks</a>
+<a href="/pink-bubble/tag/twitter-2" class="tag-cloud-link tag-link-180 tag-link-position-40" style="font-size: 10.8pt;" aria-label="twitter (2 items)">twitter</a>
+<a href="/pink-bubble/tag/unseen" class="tag-cloud-link tag-link-182 tag-link-position-41" style="font-size: 8pt;" aria-label="Unseen (1 item)">Unseen</a>
+<a href="/pink-bubble/tag/video" class="tag-cloud-link tag-link-183 tag-link-position-42" style="font-size: 12.666666666667pt;" aria-label="video (3 items)">video</a>
+<a href="/pink-bubble/tag/videopress" class="tag-cloud-link tag-link-184 tag-link-position-43" style="font-size: 8pt;" aria-label="videopress (1 item)">videopress</a>
+<a href="/pink-bubble/tag/wordpress" class="tag-cloud-link tag-link-186 tag-link-position-44" style="font-size: 8pt;" aria-label="WordPress (1 item)">WordPress</a>
+<a href="/pink-bubble/tag/wordpress-tv" class="tag-cloud-link tag-link-187 tag-link-position-45" style="font-size: 10.8pt;" aria-label="wordpress.tv (2 items)">wordpress.tv</a></p>
 
 
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/pink-bubble/archives/165/feed</wfw:commentRss>
+					<wfw:commentRss>/pink-bubble/6-1/165.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>WP 6.1 Design category blocks</title>
-		<link>/pink-bubble/archives/166</link>
-					<comments>/pink-bubble/archives/166#respond</comments>
+		<link>/pink-bubble/6-1/166.html</link>
+					<comments>/pink-bubble/6-1/166.html#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 13 Jan 2023 18:03:23 +0000</pubDate>
@@ -1518,15 +1512,15 @@
 
 ]]></content:encoded>
 					
-					<wfw:commentRss>/pink-bubble/archives/166/feed</wfw:commentRss>
+					<wfw:commentRss>/pink-bubble/6-1/166.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>WP 6.1 Media category blocks</title>
-		<link>/pink-bubble/archives/167</link>
-					<comments>/pink-bubble/archives/167#respond</comments>
+		<link>/pink-bubble/6-1/167.html</link>
+					<comments>/pink-bubble/6-1/167.html#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 13 Jan 2023 18:02:28 +0000</pubDate>
@@ -1689,7 +1683,7 @@
 <figure class="wp-block-video"><video controls src="/pink-bubble/wp-content/uploads/2013/12/2014-slider-mobile-behavior.mov"></video></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/pink-bubble/archives/167/feed</wfw:commentRss>
+					<wfw:commentRss>/pink-bubble/6-1/167.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		<enclosure url="https://upload.wikimedia.org/wikipedia/commons/d/dd/Armstrong_Small_Step.ogg" length="98702" type="audio/ogg" />
